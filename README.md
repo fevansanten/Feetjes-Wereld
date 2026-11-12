@@ -2,6 +2,46 @@
 
 ## 12 november 2026 | Sprint 0
 
+### Oefening 1 font properties
+
+<img src="./readme-images/cssoefening1.png" width="200" alt="CSS stap 1">
+<small>Stap 1: De bestanden openen
+Als eerste heb ik de bestanden gedownload en geopend in VSCodium. Voordat ik kon beginnen, moest ik alleen nog uitzoeken hoe ik mijn resultaat als webpagina kon bekijken. Ik wilde namelijk niet steeds tussen mijn code en een browser wisselen. Daarom ben ik gaan kijken hoe ik met Live Preview mijn aanpassingen direct kon zien.</small>
+
+<img src="./readme-images/cssoefening2.png" width="200" alt="CSS stap 2">
+<small>Stap 2: Het normale lettertype toevoegen
+De eerste uitdaging was het toevoegen van Expletus Sans. Hiervoor moest ik @font-face gebruiken, iets waar ik nog niet eerder mee had gewerkt. Het was even zoeken hoe ik het lettertypebestand op de juiste manier kon koppelen. Uiteindelijk werd duidelijk dat ik hiervoor de naam, de locatie van het bestand en de letterdikte moest aangeven.</small>
+
+<img src="./readme-images/cssoefening3.png" width="200" alt="CSS stap 3">
+<small>Stap 3: Het vetgedrukte lettertype toevoegen
+Vervolgens ging ik aan de slag met de vetgedrukte versie van Expletus Sans. Hierbij maakte ik meteen een fout: ik had alleen de vetgedrukte variant toegevoegd en de normale versie overgeslagen.
+Wat ik eerst niet begreep, was waarom ik twee keer @font-face nodig had. Beide bestanden horen tenslotte bij hetzelfde lettertype. Later ontdekte ik dat je hiermee aangeeft welke variant de browser moet gebruiken bij normale of vetgedrukte tekst.</small>
+
+<img src="./readme-images/cssoefening4.png" width="200" alt="CSS stap 4">
+<small>Stap 4: Het lettertype toepassen
+Nu beide varianten waren toegevoegd, dacht ik dat het lettertype automatisch zichtbaar zou zijn. Dat bleek niet zo te werken.
+Met font-family moest ik nog aangeven dat de tekst in het hoofdgedeelte van de pagina Expletus Sans moest gebruiken. Hierdoor begreep ik het verschil tussen een lettertype beschikbaar maken en het daadwerkelijk toepassen op een element.</small>
+
+<img src="./readme-images/cssoefening5.png" width="200" alt="CSS stap 5">
+<small>Stap 5: De tekst vormgeven
+Daarna kon ik beginnen met het aanpassen van de tekst zelf. Ik experimenteerde met de lettergrootte, letterdikte, kleur en regelafstand.
+Dit ging niet meteen goed. Zo had ik een letterdikte van 500 ingesteld, terwijl ik alleen de varianten 400 en 700 had toegevoegd. Daarnaast werd mijn hele alinea roze, terwijl dat niet de bedoeling was. Ik heb de tekst daarom weer zwart gemaakt.
+Door deze aanpassingen zag ik steeds beter welk effect de verschillende CSS-properties hadden. Vooral het verschil tussen de eigenschappen en de waarden die je eraan geeft, werd duidelijker.</small>
+
+<img src="./readme-images/cssoefening6.png" width="200" alt="CSS stap 6">
+<small>Stap 6: De eerste letter aanpassen
+De laatste stap was het vormgeven van de eerste letter van de alinea. Met ::first-letter kon ik specifiek die ene letter selecteren.
+Vervolgens heb ik deze groter en vetgedrukt gemaakt en de dieproze kleur uit de opdracht toegepast. Dit onderdeel vond ik interessant, omdat ik niet wist dat je met CSS zo gericht één letter kon aanpassen.
+
+Hierna heb ik gecontroleerd of alle gevraagde eigenschappen in mijn CSS stonden en het resultaat vergeleken met het voorbeeld.</small>
+
+### Reflectie
+
+Deze oefening kostte me meer moeite dan ik vooraf had verwacht. Ik merk dat ik CSS nog behoorlijk ingewikkeld vind, vooral omdat er zoveel verschillende properties en waarden zijn.
+In het begin was ik voornamelijk bezig met het invullen van de juiste code. Ik had daarbij regelmatig uitleg nodig, omdat ik niet altijd begreep waarom iets op een bepaalde manier moest.
+Wat me hielp, was om de opdracht op te delen in kleine stappen. Hierdoor kon ik steeds één onderdeel aanpassen en bekijken wat er op mijn webpagina veranderde.
+Daarnaast begrijp ik nu beter hoe je met CSS heel specifieke onderdelen van een tekst kunt vormgeven. Hoewel ik de opdracht uiteindelijk heb kunnen uitvoeren, zou ik dit nog niet helemaal zelfstandig kunnen. Ik wil daarom meer oefenen met CSS, zodat ik niet alleen weet welke code ik nodig heb, maar ook begrijp hoe ik daar zelf op kan komen.
+
 ### 1. Praktische CSS Voorbereiding
 
 <img src="./readme-images/stap1.png" width="200" alt="Stap 1">

@@ -4,6 +4,8 @@
 
 ### S0 - Schetsen van o.a. interactie en animatie
 
+#### Schets oefeningen:
+
 <img src="./readme-images/strepen.png" width="100" alt="Oefening 1"> 
 <small>Oefening om rechten lijnen te tekenen.</small>
 

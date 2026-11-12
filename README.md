@@ -4,7 +4,13 @@
 
 ### Interactie: MMD, micro-interacties, forms
 
-<img src="./readme-images/voorbeeld1." width="250" alt="Screenshot van de GitHub-documentatie over Markdown-koppen"> <img src="./readme-images/HTMLtabelonderzoek 2.png" width="250" alt="Screenshot van de uitleg over HTML-tabellen"> <img src="./readme-images/IMGonderzoek 2.png" width="250" alt="Screenshot van de uitleg over het HTML-element img en de attributen src, width en alt"> <img src="./readme-images/Fotostuctuuronderzoek 2.png" width="250" alt="Screenshot van onderzoek naar het structureren van afbeeldingen in een README">
+#### Inspiratie van andere forms:
+
+<img src="./readme-images/voorbeeld1.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld2.png" width="200" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld3.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld4.png" width="200" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld5.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld5.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld6.png" width="100" alt="Inspiratie foto van pinterest">
+
+<small>Bron: Pinterest, oorspronkelijke links onbekend.</small>
+
+#### Eigen geschetste form:
 
 ## 10 november 2026 | Sprint 0
 
@@ -98,3 +104,7 @@ Bronnen en hulpmiddelen
 - MDN Web Docs, HTML-tabellen: Uitleg over het gebruik van, src, width en alt.
 - MDN Web Docs, HTML-afbeeldingen: Uitleg over het gebruik van img, src, width en alt.
 - ChatGPT: Hulp bij het begrijpen en structureren van mijn README, het plaatsen van afbeeldingen en het controleren van spelling en grammatica.
+
+**Afbeeldingen:**
+
+- Pinterest bij sprint 0: Gebruikt voor visuele inspiratie. De oorspronkelijke links naar de afbeeldingen zijn niet meer beschikbaar.

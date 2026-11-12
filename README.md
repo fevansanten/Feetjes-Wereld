@@ -6,11 +6,9 @@
 
 #### Schets oefeningen:
 
-<img src="./readme-images/strepen.png" width="100" alt="Oefening 1"> 
-<small>Oefening om rechten lijnen te tekenen.</small>
+<img src="./readme-images/strepen.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
 
-<img src="./readme-images/Vierkanten.png" width="100" alt="Oefening 2"> 
-<small>Oefening om rechten vierkanten te tekenen.</small>
+<img src="./readme-images/Vierkanten.png" width="100" alt="Oefening 2"> <small>Oefening om rechten vierkanten te tekenen.</small>
 
 <img src="./readme-images/Telefoon.png" width="100" alt="Oefening 3"> <small>Oefening om je telefoon in ware grote te schetsen.</small>
 

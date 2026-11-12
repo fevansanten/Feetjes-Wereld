@@ -2,21 +2,79 @@
 
 ## 12 november 2026 | Sprint 0
 
-### Praktische CSS Voorbereiding
+### 2. Een lelijke pagina leesbaar maken
 
-<img src="./readme-images/stap1.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+<img src="./readme-images/step1.png" width="200" alt="Stap 1"> 
+<small>
+Stap 1: De tekstbreedte aanpassen
+Ik heb de maximale breedte van mijn pagina aangepast en de inhoud gecentreerd. Hierdoor worden de tekstregels korter en is de tekst makkelijker te lezen.</small>
 
-<img src="./readme-images/stap2.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+<img src="./readme-images/step2.png" width="200" alt="Stap 2"> 
+<small>
+Stap 1: De tekstbreedte aanpassen
+Ik heb de maximale breedte van mijn pagina aangepast en de inhoud gecentreerd. Hierdoor worden de tekstregels korter en is de tekst makkelijker te lezen.</small>
 
-<img src="./readme-images/stap3.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+<img src="./readme-images/step3.png" width="200" alt="Stap 3"> 
+<small>
+Stap 3: Alinea’s toevoegen
+Daarna heb ik twee alinea’s toegevoegd waarin ik uitleg wat een Digital Garden is en wat ik ermee wil doen.</small>
 
-<img src="./readme-images/stap4.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+<img src="./readme-images/step4.png" width="200" alt="Stap 4"> 
+<small>
+Stap 4: De cursor aanpassen
+Ik heb een aanpassing gedaan waardoor de muisaanwijzer verandert in een handje wanneer je over een knop beweegt. Dit is nog niet zichtbaar, omdat mijn pagina geen knoppen bevat.</small>
 
-<img src="./readme-images/stap5.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+<img src="./readme-images/step5.png" width="200" alt="Stap 5"> 
+<small>
+Stap 5: Het lettertype van invoervelden aanpassen
+Vervolgens heb ik ervoor gezorgd dat knoppen en invoervelden hetzelfde lettertype gebruiken als de rest van mijn pagina. Ook dit is nog niet zichtbaar, omdat ik deze onderdelen nog niet heb toegevoegd.</small>
 
-<img src="./readme-images/stap6.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+<img src="./readme-images/step6.png" width="200" alt="Stap 6"> 
+<small>
+Stap 6: Het eindresultaat controleren
+Als laatste heb ik gecontroleerd of alle aanpassingen goed werkten. Mijn pagina is nu overzichtelijker en beter leesbaar dan bij de eerste opdracht.</small>
 
-<img src="./readme-images/stap6.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+### 1. Praktische CSS Voorbereiding
+
+<img src="./readme-images/stap1.png" width="200" alt="Stap 1"> 
+<small>
+Stap 1: De basisstructuur
+Ik ben begonnen met het maken van een HTML-pagina in CodePen. Hiervoor heb ik een hoofdtitel en een korte introductie toegevoegd.</small>
+
+<img src="./readme-images/stap2.png" width="200" alt="Stap 2"> 
+<small>
+Stap 2: Een tussenkopje toevoegen
+Vervolgens heb ik een tussenkopje toegevoegd om mijn pagina meer structuur te geven.</small>
+
+<img src="./readme-images/stap3.png" width="200" alt="Stap 3"> 
+<small>
+Stap 3: Alinea’s toevoegen
+Daarna heb ik twee alinea’s toegevoegd waarin ik uitleg wat een Digital Garden is en wat ik ermee wil doen.</small>
+
+<img src="./readme-images/stap4.png" width="200" alt="Stap 4"> 
+<small>
+Stap 4: Een afbeelding toevoegen
+Ik heb een afbeelding toegevoegd via een online link en daarbij een passende beschrijving geschreven.</small>
+
+<img src="./readme-images/stap5.png" width="200" alt="Stap 5"> 
+<small>
+Stap 5: Een opsomming maken
+Vervolgens heb ik een opsomming gemaakt van vier onderwerpen die ik in mijn Digital Garden wil verzamelen.</small>
+
+<img src="./readme-images/stap6.png" width="200" alt="Stap 6"> 
+<small>
+Stap 6: Een citaat en afsluiting toevoegen
+Als laatste heb ik een citaat toegevoegd en mijn pagina afgesloten met een laatste alinea.</small>
+
+<img src="./readme-images/stap7.png" width="200" alt="Stap 7"> 
+<small>
+Stap 7: De HTML controleren
+Ik heb gecontroleerd of alle onderdelen in de juiste volgorde stonden en of mijn pagina goed werd weergegeven.</small>
+
+<img src="./readme-images/stap8.png" width="200" alt="Stap 8"> 
+<small>
+Stap 8: Het eindresultaat
+Als laatste heb ik het eindresultaat bekeken. Mijn pagina heeft nu een duidelijke structuur, maar nog geen vormgeving. Die ga ik in de volgende opdracht toevoegen.</small>
 
 ## 11 november 2026 | Sprint 0
 

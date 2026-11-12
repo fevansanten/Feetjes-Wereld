@@ -4,6 +4,8 @@
 
 ### Interactie: MMD, micro-interacties, forms
 
+<img src="./readme-images/voorbeeld1." width="250" alt="Screenshot van de GitHub-documentatie over Markdown-koppen"> <img src="./readme-images/HTMLtabelonderzoek 2.png" width="250" alt="Screenshot van de uitleg over HTML-tabellen"> <img src="./readme-images/IMGonderzoek 2.png" width="250" alt="Screenshot van de uitleg over het HTML-element img en de attributen src, width en alt"> <img src="./readme-images/Fotostuctuuronderzoek 2.png" width="250" alt="Screenshot van onderzoek naar het structureren van afbeeldingen in een README">
+
 ## 10 november 2026 | Sprint 0
 
 ### Opdracht: Programma's installeren

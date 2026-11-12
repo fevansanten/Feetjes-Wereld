@@ -9,12 +9,12 @@
 <img src="./readme-images/strepen.png" width="100" alt="Oefening 1"> 
 <small>Oefening om rechten lijnen te tekenen.</small>
 
-<img src="./readme-images/vierkanten.png" width="100" alt="Oefening 2"> 
+<img src="./readme-images/Vierkanten.png" width="100" alt="Oefening 2"> 
 <small>Oefening om rechten vierkanten te tekenen.</small>
 
 <img src="./readme-images/Telefoon.png" width="100" alt="Oefening 3"> <small>Oefening om je telefoon in ware grote te schetsen.</small>
 
-#### Oefening rangschikken
+#### Oefening rangschikken:
 
 <img src="./readme-images/Schetsenvan1tm10.png" width="200" alt="Gezamelijke opdracht"> 
 <small>Schetsen van Heleen rangschikken.</small>
@@ -23,7 +23,7 @@
 
 <img src="./readme-images/Websiteschets.png" width="100" alt="Opdracht 2"> <small>Een mi-fi schets</small>
 
-#### Animaties schetsen
+#### Animaties schetsen:
 
 <img src="./readme-images/Uitlegschets.png" width="200" alt="Uitleg animatie schets"> <img src="./readme-images/Animatieschets.png" width="300" alt="Uitleg animatie schets">
 

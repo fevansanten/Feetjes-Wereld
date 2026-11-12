@@ -12,6 +12,14 @@
 
 #### Eigen geschetste form:
 
+<img src="./readme-images/geschetsteform.png" width="300" alt="Inspiratie foto van pinterest">
+
+#### Wat heb ik gedaan?
+
+#### Wat heb ik geleerd?
+
+#### Wat had ik hiervoor nodig?
+
 ## 10 november 2026 | Sprint 0
 
 ### Opdracht: Programma's installeren

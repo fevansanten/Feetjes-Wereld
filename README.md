@@ -1,8 +1,12 @@
 # Learning Log
 
+## 12 november 2026 | Sprint 0
+
+### Praktische CSS Voorbereiding
+
 ## 11 november 2026 | Sprint 0
 
-### S0 - Schetsen van o.a. interactie en animatie
+### Schetsen van o.a. interactie en animatie
 
 #### Schets oefeningen:
 
@@ -24,6 +28,23 @@
 #### Animaties schetsen:
 
 <img src="./readme-images/Uitlegschets.png" width="200" alt="Uitleg animatie schets"> <img src="./readme-images/Animatieschets.png" width="300" alt="Uitleg animatie schets">
+
+#### Wat heb ik gedaan?
+
+Tijdens deze les heb ik verschillende schetsoefeningen gedaan. We begonnen met het tekenen van rechte lijnen en vierkanten. Daarna moesten we een telefoon op ware grootte schetsen.
+Vervolgens gingen we kijken naar verschillende schetstechnieken en hoe je een schets duidelijker en overzichtelijker kunt maken. Hiervoor kregen we verschillende schetsen van Heleen die we moesten rangschikken van minder goed naar beter. We keken hierbij naar het gebruik van kleuren, annotaties, stippellijnen, schaduwen en highlights.
+Daarna moesten we deze technieken zelf toepassen door een mi-fi-schets te maken van een website die we regelmatig gebruiken. Ik heb hiervoor de website van HEMA gekozen. Eerst heb ik de basis met een zwarte fineliner getekend en daarna heb ik met kleuren annotaties toegevoegd om bepaalde onderdelen duidelijker te maken.
+Als laatste hebben we geoefend met het schetsen van animaties. Eerst kregen we uitleg van een docent over hoe je een animatie met schetsen kunt uitwerken. Vervolgens heb ik geprobeerd om dit zelf toe te passen.
+
+#### Wat heb ik geleerd?
+
+Ik heb geleerd dat schetsen niet alleen gaat om hoe mooi je kunt tekenen, maar vooral om hoe duidelijk je een idee kunt overbrengen. Door de verschillende schetsen te rangschikken, zag ik hoeveel verschil kleine toevoegingen kunnen maken. Denk bijvoorbeeld aan het gebruik van kleuren, schaduwen, annotaties en stippellijnen. Hierdoor wordt een schets veel makkelijker te begrijpen.
+Ook heb ik geleerd hoe je een bestaande website kunt omzetten naar een mi-fi-schets en hoe je met verschillende technieken bepaalde onderdelen kunt benadrukken. Daarnaast heb ik kennisgemaakt met het schetsen van animaties en hoe je beweging kunt laten zien in een stilstaande tekening.
+
+#### Wat had ik hiervoor nodig?
+
+Voor deze oefeningen heb ik papier, een potlood, een zwarte fineliner en verschillende kleuren gebruikt. Daarnaast hebben we uitleg en voorbeelden gekregen van de docent over verschillende schetstechnieken en het schetsen van animaties.
+Voor de mi-fi-schets heb ik de website van HEMA als voorbeeld gebruikt. Ook hebben de schetsen van Heleen mij geholpen om te herkennen welke technieken een schets duidelijker maken.
 
 ### Interactie: MMD, micro-interacties, forms
 

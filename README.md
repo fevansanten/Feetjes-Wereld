@@ -35,6 +35,10 @@ Vervolgens heb ik deze groter en vetgedrukt gemaakt en de dieproze kleur uit de 
 
 Hierna heb ik gecontroleerd of alle gevraagde eigenschappen in mijn CSS stonden en het resultaat vergeleken met het voorbeeld.</small>
 
+<img src="./readme-images/HWIVI - deep dive - css dive - oefening 1.png" width="200" alt="Vergelijken"> <small>Eindresultaat van de docent.</small>
+
+<img src="./readme-images/cssoefening7.png" width="200" alt="Vergelijken"> <small>Eindresultaat van mijzelf.</small>
+
 ### Reflectie
 
 Deze oefening kostte me meer moeite dan ik vooraf had verwacht. Ik merk dat ik CSS nog behoorlijk ingewikkeld vind, vooral omdat er zoveel verschillende properties en waarden zijn.

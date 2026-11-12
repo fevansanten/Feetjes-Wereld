@@ -2,23 +2,47 @@
 
 ## 11 november 2026 | Sprint 0
 
+### S0 - Schetsen van o.a. interactie en animatie
+
+<img src="./readme-images/strepen.png" width="100" alt="Oefening 1"> 
+<small>Oefening om rechten lijnen te tekenen.</small>
+
+<img src="./readme-images/vierkanten.png" width="100" alt="Oefening 2"> 
+<small>Oefening om rechten vierkanten te tekenen.</small>
+
+<img src="./readme-images/Telefoon.png" width="100" alt="Oefening 3"> 
+<small>Oefening om je telefoon in ware grote te schetsen.</small>
+
+<img src="./readme-images/Schetsenvan1tm10.png" width="200" alt="Gezamelijke opdracht"> 
+<small>Schetsen van Heleen rangschikken.</small>
+
+<img src="./readme-images/Websiteschets.png" width="100" alt="Opdracht 2"> 
+<small>Een mi-fi schets</small>
+
 ### Interactie: MMD, micro-interacties, forms
 
 #### Inspiratie van andere forms:
 
 <img src="./readme-images/voorbeeld1.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld2.png" width="200" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld3.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld4.png" width="200" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld5.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld5.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld6.png" width="100" alt="Inspiratie foto van pinterest">
-
 <small>Bron: Pinterest, oorspronkelijke links onbekend.</small>
 
 #### Eigen geschetste form:
 
-<img src="./readme-images/geschetsteform.png" width="300" alt="Inspiratie foto van pinterest">
+<img src="./readme-images/Opdracht1form.png" width="200" alt="Antwoorden op de vragen">
+<img src="./readme-images/geschetsteform.png" width="300" alt="Schets opdracht 1">
 
 #### Wat heb ik gedaan?
 
+Voor deze opdracht moest ik een bruikbaar online formulier ontwerpen voor Wok to Walk, waarbij gebruikers zelf hun maaltijd kunnen samenstellen. Ik ben begonnen met het verzamelen van inspiratie van verschillende menukaarten en formulieren. Hierbij heb ik vooral gekeken naar hoe de informatie werd verdeeld en hoe de vormgeving ervoor zorgde dat een menu overzichtelijk bleef.
+Daarna heb ik nagedacht over de context en wat de gebruiker precies moet kunnen doen. Ik heb ervoor gekozen om het formulier op te delen in drie stappen: eerst een basis kiezen, vervolgens maximaal vier ingrediënten toevoegen en als laatste een saus kiezen. Vervolgens heb ik twee verschillende schetsen gemaakt om te onderzoeken hoe ik deze informatie het beste kon indelen.
+
 #### Wat heb ik geleerd?
 
+Ik heb geleerd dat het bij het ontwerpen van een formulier niet alleen gaat om hoe het eruitziet, maar vooral om hoe duidelijk het is voor de gebruiker. Je moet goed nadenken over de volgorde waarin iemand keuzes maakt en hoe je ervoor zorgt dat de gebruiker begrijpt wat er van diegene wordt verwacht.
+
 #### Wat had ik hiervoor nodig?
+
+Voor deze opdracht heb ik gebruikgemaakt van Pinterest om inspiratie te verzamelen van verschillende menukaarten en formulieren. Daarnaast heb ik de theorie uit de les over interactie gebruikt, zoals affordance, feedforward, feedback, cues en prompts. Deze begrippen hielpen mij om na te denken over hoe een gebruiker door het formulier wordt begeleid.
 
 ## 10 november 2026 | Sprint 0
 

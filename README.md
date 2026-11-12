@@ -4,6 +4,20 @@
 
 ### Praktische CSS Voorbereiding
 
+<img src="./readme-images/stap1.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+
+<img src="./readme-images/stap2.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+
+<img src="./readme-images/stap3.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+
+<img src="./readme-images/stap4.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+
+<img src="./readme-images/stap5.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+
+<img src="./readme-images/stap6.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+
+<img src="./readme-images/stap6.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+
 ## 11 november 2026 | Sprint 0
 
 ### Schetsen van o.a. interactie en animatie

@@ -4,7 +4,7 @@
 
 ### Opdracht: Programma's installeren en de opdracht: Klein beginnen
 
-<img src="./readme-images/Opdrachtkleinbeginnen.png" width="250" alt="Opdracht klein beginnen, afbeelding 1"> <img src="./readme-images/Opdrachtkleinbeginnen2.png" width="250" alt="Opdracht klein beginnen, afbeelding 2">
+<img src="./readme-images/OpdrachtKleinbeginnen.png" width="250" alt="Screenshot van de opdracht Klein beginnen"> <img src="./readme-images/Opdrachtkleinbeginnen2.png" width="250" alt="Opdracht klein beginnen, afbeelding 2">
 
 #### Wat heb ik gedaan?
 

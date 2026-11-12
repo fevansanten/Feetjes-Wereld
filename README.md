@@ -5,33 +5,27 @@
 ### 1. Praktische CSS Voorbereiding
 
 <img src="./readme-images/stap1.png" width="200" alt="Stap 1">
-<small>
-Stap 1: De basisstructuur
+<small>Stap 1: De basisstructuur
 Ik ben begonnen met het maken van een HTML-pagina in CodePen. Hiervoor heb ik een hoofdtitel en een korte introductie toegevoegd.</small>
 
 <img src="./readme-images/stap2.png" width="200" alt="Stap 2">
-<small>
-Stap 2: Een tussenkopje toevoegen
+<small>Stap 2: Een tussenkopje toevoegen
 Vervolgens heb ik een tussenkopje toegevoegd om mijn pagina meer structuur te geven.</small>
 
 <img src="./readme-images/stap3.png" width="200" alt="Stap 3">
-<small>
-Stap 3: Alinea’s toevoegen
+<small>Stap 3: Alinea’s toevoegen
 Daarna heb ik twee alinea’s toegevoegd waarin ik uitleg wat een Digital Garden is en wat ik ermee wil doen.</small>
 
 <img src="./readme-images/stap4.png" width="200" alt="Stap 4">
-<small>
-Stap 4: Een afbeelding toevoegen
+<small>Stap 4: Een afbeelding toevoegen
 Ik heb een afbeelding toegevoegd via een online link en daarbij een passende beschrijving geschreven.</small>
 
 <img src="./readme-images/stap5.png" width="200" alt="Stap 5">
-<small>
-Stap 5: Een opsomming maken
+<small>Stap 5: Een opsomming maken
 Vervolgens heb ik een opsomming gemaakt van vier onderwerpen die ik in mijn Digital Garden wil verzamelen.</small>
 
 <img src="./readme-images/stap6.png" width="200" alt="Stap 6">
-<small>
-Stap 6: Een citaat en afsluiting toevoegen
+<small>Stap 6: Een citaat en afsluiting toevoegen
 Als laatste heb ik een citaat toegevoegd en mijn pagina afgesloten met een laatste alinea.</small>
 
 <img src="./readme-images/stap7.png" width="200" alt="Stap 7">

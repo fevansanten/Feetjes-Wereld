@@ -2,6 +2,14 @@
 
 ## 12 november 2026 | Sprint 0
 
+<img src="./readme-images/step1.png" width="200" alt="Stap 1">
+
+<img src="./readme-images/step2.png" width="200" alt="Stap 2">
+
+<img src="./readme-images/step3.png" width="200" alt="Stap 3">
+
+<img src="./readme-images/step4.png" width="200" alt="Stap 4">
+
 ### 2. Een lelijke pagina leesbaar maken
 
 <img src="./readme-images/step1.png" width="200" alt="Stap 1"> 

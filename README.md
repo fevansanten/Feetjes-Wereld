@@ -41,39 +41,27 @@ Als laatste heb ik het eindresultaat bekeken. Mijn pagina heeft nu een duidelijk
 ### 2. Een lelijke pagina leesbaar maken
 
 <img src="./readme-images/step1.png" width="200" alt="Stap 1">
-
-<small>
-Stap 1: De tekstbreedte aanpassen
+<small>Stap 1: De tekstbreedte aanpassen
 Ik heb de maximale breedte van mijn pagina aangepast en de inhoud gecentreerd. Hierdoor worden de tekstregels korter en is de tekst makkelijker te lezen.</small>
 
 <img src="./readme-images/step2.png" width="200" alt="Stap 2">
-
-<small>
-Stap 1: De tekstbreedte aanpassen
+<small>Stap 1: De tekstbreedte aanpassen
 Ik heb de maximale breedte van mijn pagina aangepast en de inhoud gecentreerd. Hierdoor worden de tekstregels korter en is de tekst makkelijker te lezen.</small>
 
 <img src="./readme-images/step3.png" width="200" alt="Stap 3">
-
-<small>
-Stap 3: Alinea’s toevoegen
+<small>Stap 3: Alinea’s toevoegen
 Daarna heb ik twee alinea’s toegevoegd waarin ik uitleg wat een Digital Garden is en wat ik ermee wil doen.</small>
 
 <img src="./readme-images/step4.png" width="200" alt="Stap 4">
-
-<small>
-Stap 4: De cursor aanpassen
+<small>Stap 4: De cursor aanpassen
 Ik heb een aanpassing gedaan waardoor de muisaanwijzer verandert in een handje wanneer je over een knop beweegt. Dit is nog niet zichtbaar, omdat mijn pagina geen knoppen bevat.</small>
 
 <img src="./readme-images/step5.png" width="200" alt="Stap 5"> 
-<small>
-
-Stap 5: Het lettertype van invoervelden aanpassen
+<small>Stap 5: Het lettertype van invoervelden aanpassen
 Vervolgens heb ik ervoor gezorgd dat knoppen en invoervelden hetzelfde lettertype gebruiken als de rest van mijn pagina. Ook dit is nog niet zichtbaar, omdat ik deze onderdelen nog niet heb toegevoegd.</small>
 
 <img src="./readme-images/step6.png" width="200" alt="Stap 6">
-
-<small>
-Stap 6: Het eindresultaat controleren
+<small>Stap 6: Het eindresultaat controleren
 Als laatste heb ik gecontroleerd of alle aanpassingen goed werkten. Mijn pagina is nu overzichtelijker en beter leesbaar dan bij de eerste opdracht.</small>
 
 ### CSS Diner game

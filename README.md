@@ -1,5 +1,21 @@
 # Learning Log
 
+## 16 november 2026 | Sprint 1
+
+### Checkout:
+
+**1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.**
+
+Een digital garden is een plek waar je je ideeën, interesses en dingen die je leert kunt verzamelen. Het verschil met een normale website is dat een digital garden niet helemaal af hoeft te zijn en steeds kan veranderen en groeien.
+
+**2. Leg uit wat een website ‘webby’ maakt en welke websites jou het meeste inspireren.**
+
+Een website is webby als het op een creatieve manier gebruikmaakt van de mogelijkheden van het web.
+
+**3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden.**
+
+Ik weet nog niet precies wat ik met mijn digital garden wil gaan doen. Misschien wil ik iets maken over onderwerpen die mij op dit moment bezighouden, zoals politiek, het nieuws, muziek of mijn hobby’s. Ik wil eerst een beetje onderzoeken wat ik interessant vind en van daaruit verder werken.
+
 ## 12 november 2026 | Sprint 0
 
 ### Oefening 1 font properties

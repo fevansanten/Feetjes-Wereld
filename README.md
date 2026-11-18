@@ -1,5 +1,31 @@
 # Learning Log
 
+## 18 november 2026 | Sprint 1
+
+### Presentatie feedback
+
+**Gepresenteerd aan Helena:**
+Haar feedback ging over dat de lampen in de kamer geven licht in het begin.
+
+### Opdracht 5: een sfeer- of kernwoord als uitgangspunt
+
+**Mijn onderwerp is Een kijkje in mijn brein.**
+
+**Sfeerworden en kernwoorden: 'ik voel mij…'.**
+
+- Veilig
+- Begrepen
+- Uniek
+- Leuk
+- Gezellig
+- Slim
+- Huiselijk
+
+Bijvoorbeeld: Mijn onderwerp is tuinieren. De kernwoorden zijn: groeiend, vloeiend, beweeglijk.  
+Schrijf op:  - Mijn onderwerp voor de Digital Garden is:  - Mijn sfeer- of kernwoord(en) is/zijn:
+
+## 17 november 2026 | Sprint 1
+
 ## 16 november 2026 | Sprint 1
 
 ### Opdracht 2: Verzamelen van inspiratie

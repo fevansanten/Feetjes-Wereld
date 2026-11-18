@@ -9,7 +9,7 @@ Haar feedback ging over dat de lampen in de kamer geven licht in het begin.
 
 ### Opdracht 5: een sfeer- of kernwoord als uitgangspunt
 
-**Mijn onderwerp is Een kijkje in mijn brein.**
+**Mijn onderwerp: Een kijkje in mijn brein.**
 
 **Sfeerworden en kernwoorden: 'ik voel mij…'.**
 
@@ -21,8 +21,19 @@ Haar feedback ging over dat de lampen in de kamer geven licht in het begin.
 - Slim
 - Huiselijk
 
-Bijvoorbeeld: Mijn onderwerp is tuinieren. De kernwoorden zijn: groeiend, vloeiend, beweeglijk.  
-Schrijf op:  - Mijn onderwerp voor de Digital Garden is:  - Mijn sfeer- of kernwoord(en) is/zijn:
+### Bespreek in duo's
+
+**Zijn uitgangspunten terug te zien in de schetsen?**
+Vierkant, Grid
+
+**Is het idee online te vertalen?**
+Ja, door een
+
+**Is het idee expressief?**
+Ja zeker! Ik heb veel uitdaging om dit te gaan maken.
+
+**Is het idee leuk en verrassend?**
+Ik denk niet dat het verrassend is dat ik iets wil doen met mijn innerlijke gedachtes, maar ik denk wel dat het uniek is op de manier waarop ik het wil vormgeven.
 
 ## 17 november 2026 | Sprint 1
 

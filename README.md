@@ -21,13 +21,13 @@ Haar feedback ging over dat de lampen in de kamer geven licht in het begin.
 - Slim
 - Huiselijk
 
-### Bespreek in duo's
+### Bespreek in duo's:
 
 **Zijn uitgangspunten terug te zien in de schetsen?**
 Vierkant, Grid
 
 **Is het idee online te vertalen?**
-Ja, door een
+Ja, door een grid te gaan gebruiken.
 
 **Is het idee expressief?**
 Ja zeker! Ik heb veel uitdaging om dit te gaan maken.

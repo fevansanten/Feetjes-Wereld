@@ -37,18 +37,27 @@ Ik denk niet dat het verrassend is dat ik iets wil doen met mijn innerlijke geda
 
 ## 17 november 2026 | Sprint 1
 
-<img src="./readme-images/presentatie1.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie2.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie3.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie4.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie5.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie6.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie7.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie8.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie9.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie10.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie11.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentatie12.png" width="300" alt="Website analyseren">
+### Practicum Light & Dark theme
+
+#### Aantekeningen
+
+<img src="./readme-images/aantekeningen1.png" width="300" alt="Aantekeningen van tijdens het practicum">
+
+#### Opdracht 1: Light & Dark 101
+
+<img src="./readme-images/light&dark1.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark2.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark3.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark4.png" width="300" alt="presentatie pagina 12">
+
+#### Light en dark iconen
+
+<img src="./readme-images/light&dark5.png" width="300" alt="opdracht met de cupcake">
+
+#### Opdracht 3: Responsive afbeelding
+
+<img src="./readme-images/light&dark6.png" width="300" alt="hardloper licht"><img src="./readme-images/light&dark7.png" width="300" alt="hardloper donker">
+
+### Presentatie voor woensdag 18 november
+
+<img src="./readme-images/presentatie1.png" width="300" alt="presentatie pagina 1"><img src="./readme-images/presentatie2.png" width="300" alt="presentatie pagina 2"><img src="./readme-images/presentatie3.png" width="300" alt="presentatie pagina 3"><img src="./readme-images/presentatie4.png" width="300" alt="presentatie pagina 4"><img src="./readme-images/presentatie5.png" width="300" alt="presentatie pagina 5"><img src="./readme-images/presentatie6.png" width="300" alt="presentatie pagina 6"><img src="./readme-images/presentatie7.png" width="300" alt="presentatie pagina 7"><img src="./readme-images/presentatie8.png" width="300" alt="presentatie pagina 8"><img src="./readme-images/presentatie9.png" width="300" alt="presentatie pagina 9"><img src="./readme-images/presentatie10.png" width="300" alt="10"><img src="./readme-images/presentatie11.png" width="300" alt="presentatie pagina 11"><img src="./readme-images/presentatie12.png" width="300" alt="presentatie pagina 12">
 
 ### Reflectie: presentatie maken
 

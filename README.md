@@ -38,10 +38,21 @@ Ik denk niet dat het verrassend is dat ik iets wil doen met mijn innerlijke geda
 ## 17 november 2026 | Sprint 1
 
 <img src="./readme-images/presentatie1.png" width="300" alt="Website analyseren">
-<img src="./readme-images/presentaie2.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie2.png" width="300" alt="Website analyseren">
 <img src="./readme-images/presentatie3.png" width="300" alt="Website analyseren">
 <img src="./readme-images/presentatie4.png" width="300" alt="Website analyseren">
 <img src="./readme-images/presentatie5.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie6.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie7.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie8.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie9.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie10.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie11.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie12.png" width="300" alt="Website analyseren">
+
+### Reflectie: presentatie maken
+
+Tijdens deze opdracht heb ik verschillende websites en afbeeldingen verzameld die mij inspireerden voor mijn Digital Garden. Ik vond het in het begin best lastig, omdat ik eigenlijk nog helemaal niet weet wat ik precies wil maken. Ik heb veel verschillende interesses en vind het moeilijk om daar 1 duidelijk concept van te maken. Tijdens het zoeken merkte ik wel dat ik vooral websites leuk vind die een beetje anders zijn dan normale websites. Vooral websites met bijzondere interacties, animaties en een speelse vormgeving spreken mij aan. Ik vond het soms ook lastig om uit te leggen waarom bepaalde websites mij inspireerden. Ik koos ze vooral omdat ik ze er leuk uit vond zien. Door deze opdracht ben ik wel iets meer gaan nadenken over wat ik zelf zou willen maken. Ik weet nog steeds niet precies welke kant ik op wil, maar ik heb nu wel wat meer ideeën. Voor nu wil ik vooral veel dingen uitproberen en kijken wat uiteindelijk bij mij past.
 
 ## 16 november 2026 | Sprint 1
 

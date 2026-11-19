@@ -21,6 +21,10 @@ Haar feedback ging over dat de lampen in de kamer geven licht in het begin.
 - Slim
 - Huiselijk
 
+### Visual research
+
+<img src="./readme-images/visualresearch.png" width="300" alt="miro bord visual research">
+
 ### Bespreek in duo's:
 
 **Zijn uitgangspunten terug te zien in de schetsen?**
@@ -47,7 +51,7 @@ Ik denk niet dat het verrassend is dat ik iets wil doen met mijn innerlijke geda
 
 <img src="./readme-images/light&dark1.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark2.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark3.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark4.png" width="300" alt="presentatie pagina 12">
 
-#### Light en dark iconen
+#### Opdracht: Light en dark iconen
 
 <img src="./readme-images/light&dark5.png" width="300" alt="opdracht met de cupcake">
 

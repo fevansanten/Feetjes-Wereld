@@ -1,5 +1,22 @@
 # Learning Log
 
+## 19 november 2026 | Sprint 1
+
+### Kleurenpalet
+
+<img src="./readme-images/kleurpaletdark.png" width="300" alt="kleurenpalet van dark mode">
+<small>Kleurenpalet voor dark mode.</small>
+
+<img src="./readme-images/kleurpaletlight.png" width="300" alt="kleurenpalet van light mode">
+<small>Kleurenpalet voor light mode.</small>
+
+### Fonts
+
+<img src="./readme-images/font1.png" width="300" alt="kleurenpalet van light mode"><img src="./readme-images/font2.png" width="300" alt="kleurenpalet van light mode"><img src="./readme-images/font3.png" width="300" alt="kleurenpalet van light mode"><img src="./readme-images/font4.png" width="300" alt="kleurenpalet van light mode"><img src="./readme-images/font5.png" width="300" alt="kleurenpalet van light mode">
+
+Ik heb in Adobe Fonts gezocht naar verschillende lettertypes die passen bij mijn Digital Garden. Ik wilde vooral iets speels en experimenteels, omdat ik niet wil dat mijn website er te standaard uitziet. Ik heb 5 lettertypes gevonden: Yerk, Discovery, Jack, Damson en Cheee. Ze zijn allemaal vrij verschillend, maar hebben wel iets opvallends. Vooral de bijzondere vormen spreken mij aan.
+Ik weet nog niet welk lettertype ik uiteindelijk ga gebruiken. Dat wil ik verder onderzoeken wanneer ik mijn website ga vormgeven.
+
 ## 18 november 2026 | Sprint 1
 
 ### Presentatie feedback
@@ -25,7 +42,7 @@ Haar feedback ging over dat de lampen in de kamer geven licht in het begin.
 
 <img src="./readme-images/visualresearch.png" width="300" alt="miro bord visual research">
 
-### Bespreek in duo's:
+### Bespreek in duo's
 
 **Zijn uitgangspunten terug te zien in de schetsen?**
 Vierkant, Grid
@@ -38,6 +55,17 @@ Ja zeker! Ik heb veel uitdaging om dit te gaan maken.
 
 **Is het idee leuk en verrassend?**
 Ik denk niet dat het verrassend is dat ik iets wil doen met mijn innerlijke gedachtes, maar ik denk wel dat het uniek is op de manier waarop ik het wil vormgeven.
+
+### Checkout
+
+**1. Leg uit waar het Visual Research in 3 stappen naartoe werkt**
+Met Visual Research werk je eigenlijk toe naar een eigen visuele richting en ontwerpuitgangspunten voor je website. Je kijkt niet alleen letterlijk naar afbeeldingen die je inspireren, maar onderzoekt ook wat je er interessant aan vindt. Bijvoorbeeld de vormen, kleuren, typografie, beweging, licht en de sfeer die een beeld geeft. Eerst verzamel je inspiratie, daarna kijk je welke overeenkomsten en patronen je herkent. Vervolgens vertaal je die kenmerken naar concrete ideeën die je kunt gebruiken om zelf te schetsen en te ontwerpen.
+
+**2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).**
+Mijn Digital Garden, Feetjes Wereld, wordt een soort kijkje in mijn hoofd, waarin ik mijn interesses, gedachten en herinneringen op een creatieve manier wil laten zien. Ik wil dit doen met verschillende kamers of ruimtes die je kunt ontdekken, waarbij ik gebruik wil maken van afbeeldingen, tekst, kleuren, animaties en interacties.
+
+**3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.**
+Ik zou het liefst verder willen met schets 2 en 3, waarbij je echt naar binnen kunt kijken in verschillende kamers. Ik weet alleen nog niet precies hoe ik dit technisch moet maken en wat ik daarvoor nodig heb. Nicky vertelde dat ik de les van vrijdag waarschijnlijk interessant ga vinden, omdat we dan met grids aan de slag gaan. Misschien kan ik dat goed gebruiken voor mijn idee.
 
 ## 17 november 2026 | Sprint 1
 

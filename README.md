@@ -37,9 +37,17 @@ Ik denk niet dat het verrassend is dat ik iets wil doen met mijn innerlijke geda
 
 ## 17 november 2026 | Sprint 1
 
+<img src="./readme-images/presentatie1.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentaie2.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie3.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie4.png" width="300" alt="Website analyseren">
+<img src="./readme-images/presentatie5.png" width="300" alt="Website analyseren">
+
 ## 16 november 2026 | Sprint 1
 
-### Opdracht 2: Verzamelen van inspiratie
+### Opdracht 1: Websites analyseren
+
+<img src="./readme-images/websiteanalyseren.png" width="300" alt="Website analyseren">
 
 ### Opdracht 2: Eigen verkenning
 
@@ -47,7 +55,7 @@ Ik wil eigenlijk een soort inkijkje in mijn eigen brein maken. Een website waari
 
 Er zijn nog heel veel dingen die ik niet weet te maken. Ik heb nog weinig ervaring met HTML, CSS en JavaScript, dus ik weet ook nog niet precies wat allemaal mogelijk is. Maar ik hoop dat ik mezelf daarin kan verrassen.
 
-Webby elementen:
+**Webby elementen:**
 
 Ik wil graag een digital garden maken waarin je zelf op ontdekking kunt gaan, met verborgen pagina’s, animaties en interactieve elementen.
 
@@ -57,29 +65,30 @@ Ik wil graag een digital garden maken waarin je zelf op ontdekking kunt gaan, me
 
 Ik weet nog niet precies hoe ik dit technisch moet maken, maar het lijkt me heel leuk om hiermee te experimenteren.
 
-De toon:
+**De toon:**
 
 De toon van mijn Digital Garden wordt heel persoonlijk, omdat het eigenlijk een kijkje in mijn hoofd is. Ik wil dat de website speels en een beetje mysterieus aanvoelt. Er mag ook best wat chaos in zitten, want het zijn mijn gedachten en die zijn ook niet altijd even logisch of gestructureerd. Ik vind het wel belangrijk dat de navigatie duidelijk is, maar wat je vervolgens in een kamer of een stukje van mijn brein tegenkomt, hoeft niet altijd voor iedereen begrijpelijk te zijn. Het is tenslotte mijn hoofd. Ik wil vooral dat je door de website een beeld krijgt van wie ik ben en hoe mijn gedachten soms alle kanten op gaan.
 
-Het doel:
+**Het doel:**
 
 Mijn doel is vooral om iets te maken wat helemaal van mij is. Ik vind het heel vet dat ik een plek kan creëren waarin ik op een visuele manier kan laten zien wie ik ben en wat er in mijn hoofd omgaat. Het lijkt me leuk om mijn gedachten als het ware te vertalen naar een digitale wereld. Ik wil ook dat mijn Digital Garden een lopend proces wordt. Na deze acht weken heb ik misschien een begin gemaakt, maar het lijkt me juist leuk om de website tijdens de rest van mijn opleiding te blijven ontwikkelen. Dat je niet alleen ziet hoe mijn website steeds beter wordt, maar ook hoe ik zelf verander en wat mij op verschillende momenten bezighoudt. Uiteindelijk wordt het misschien een soort digitaal dagboek, maar dan als een wereld waarin je kunt rondlopen. Het lijkt me heel leuk als ik op een gegeven moment niet eens meer hoef uit te leggen wie ik ben, maar gewoon mijn website kan sturen en kan zeggen: kijk zelf maar.
 
-Wat mij raakt en welke content ik wil gebruiken:
+**Wat mij raakt en welke content ik wil gebruiken:**
 
 Er zijn heel veel verschillende dingen die mij bezighouden, zoals maatschappelijke onderwerpen, politiek, muziek, dansen, sporten, herinneringen, uitjes, vrienden, familie, gesprekken, zelfreflectie, onzekerheden, gedachten, verwonderingen, kleine dingen uit het dagelijks leven, mijn favoriete eten, producten die ik gebruik, gewoontes en rituelen. Het hoeft niet allemaal even belangrijk of diepgaand te zijn. Juist de combinatie van grote onderwerpen en hele kleine persoonlijke dingen lijkt me leuk. Zo ontstaat er langzaam een verzameling van alles wat op verschillende momenten in mijn leven speelt.
 
-Content van anderen:
+**Content van anderen:**
 
 animeren. Het liefst wil ik zo min mogelijk tekst gebruiken en juist met beeld mijn verhaal vertellen. Waar nodig kan ik natuurlijk altijd tekst toevoegen. Ik zou wel graag muziek die ik op dat moment luister willen verwerken in mijn website. Bijvoorbeeld door een albumcover te animeren in plaats van alleen een afbeelding te plaatsen. Ook lijkt het me leuk om soms een video of iets wat ik op social media tegenkom en wat me bijblijft, te verwerken in mijn Digital Garden. Ik moet hierbij natuurlijk wel rekening houden met auteursrechten. Ik kan niet zomaar muziek, afbeeldingen of video’s van anderen gebruiken of aanpassen. Ik zou bijvoorbeeld naar de originele content kunnen linken, muziek via een officiële embed kunnen toevoegen of mijn eigen illustraties maken die geïnspireerd zijn op wat ik heb gezien. Zo kan ik er toch mijn eigen verhaal van maken.
 
-De ervaring:
+**De ervaring:**
 
 Ik wil dat bezoekers mijn Digital Garden echt kunnen ervaren, alsof ze door een digitale wereld lopen. Het lijkt me heel leuk als je zelf op ontdekking moet gaan en niet meteen alle informatie te zien krijgt. Door bijvoorbeeld rond te lopen, deuren te openen, op dingen te klikken of verborgen plekken te ontdekken, kom je steeds weer iets nieuws tegen. Ik wil vooral veel gebruikmaken van animaties, illustraties en misschien ook geluid of muziek. Het lijkt me leuk als bezoekers een beetje moeten zoeken naar de informatie en zelf kunnen bepalen wat ze ontdekken. Een soort interactieve wereld waarin je kunt verdwalen in mijn gedachten.
 
-### Opdracht 1: Websites analyseren
+### Opdracht 3: Verzamelen van inspiratie
 
-<img src="./readme-images/websiteanalyseren.png" width="300" alt="Website analyseren">
+<img src="./readme-images/inspiratieboard.png" width="400" alt="Inspiratie foto's">
+<small>Collage van de inspiratie foto's
 
 ### Checkout:
 

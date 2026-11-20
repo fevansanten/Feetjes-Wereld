@@ -1,6 +1,12 @@
 # Learning Log
 
-## 20 november 2026 | Sprint
+## 20 november 2026 | Sprint 1
+
+### Opdracht 13: Van schets naar HTML
+
+<img src="./readme-images/vanschetsnaarhtmlversie1.png" width="200" alt="Opdracht 13 Van schets naar HTML">
+
+### Mobile first schetsen beoordelen
 
 <img src="./readme-images/schetsenschermbeoordelen.png" width="200" alt="Beoordeleningsformulier voor de gemaakte schetsen.">
 

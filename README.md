@@ -1,6 +1,24 @@
 # Learning Log
 
+## 20 november 2026 | Sprint
+
+<img src="./readme-images/schetsenschermbeoordelen.png" width="200" alt="Beoordeleningsformulier voor de gemaakte schetsen.">
+
+**1. zijn je schetsen Webby genoeg?**
+Het is webby omdat er genoeg contrast is. Er is een duidelijke visuele hierarchie.
+
+**2. Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css.**
+
+**3. Schrijf vragen of moeilijke onderdelen op en vraag advies aan een docent/student assistent.**
+
+**4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.**
+
 ## 19 november 2026 | Sprint 1
+
+### Schetsen
+
+<img src="./readme-images/schetstelefoonscherm1.png" width="300" alt="Schetsen voor het telefoon scherm.">
+<img src="./readme-images/schetstelefoonscherm2.png" width="300" alt="Schetsen voor het telefoon scherm.">
 
 ### Kleurenpalet
 

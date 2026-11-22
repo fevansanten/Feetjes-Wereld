@@ -6,13 +6,7 @@
 
 #### Oefening 1: Meet the properties
 
-<img src="./readme-images/meettheproperties1.png" width="300" alt="Een grid met cards.">
-<img src="./readme-images/meettheproperties2.png" width="300" alt="Een grid met cards">
-<img src="./readme-images/meettheproperties3.png" width="300" alt="Een grid met cards.">
-<img src="./readme-images/meettheproperties4.png" width="300" alt="Een grid met cards">
-<img src="./readme-images/meettheproperties5.png" width="300" alt="Een grid met cards.">
-<img src="./readme-images/meettheproperties6.png" width="300" alt="Een grid met cards">
-<img src="./readme-images/meettheproperties7.png" width="300" alt="Een grid met cards.">
+<img src="./readme-images/meettheproperties1.png" width="300" alt="Een grid met cards."><img src="./readme-images/meettheproperties2.png" width="300" alt="Een grid met cards"><img src="./readme-images/meettheproperties3.png" width="300" alt="Een grid met cards."><img src="./readme-images/meettheproperties4.png" width="300" alt="Een grid met cards"><img src="./readme-images/meettheproperties5.png" width="300" alt="Een grid met cards."><img src="./readme-images/meettheproperties6.png" width="300" alt="Een grid met cards"><img src="./readme-images/meettheproperties7.png" width="300" alt="Een grid met cards.">
 
 #### Oefening 2: Cards 101
 

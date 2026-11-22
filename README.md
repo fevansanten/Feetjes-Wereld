@@ -1,5 +1,23 @@
 # Learning Log
 
+## 22 november 2026 | Sprint 1
+
+#### Leerproces, CSS, kleuren en animaties
+
+<img src="./readme-images/eersteversie1.png" width="300" alt="Een grid met cards."><img src="./readme-images/eersteversie2.png" width="300" alt="Een grid met cards"><img src="./readme-images/eersteversie3.png" width="300" alt="Een grid met cards."><img src="./readme-images/eersteversie4.png" width="300" alt="Een grid met cards"><img src="./readme-images/eersteversie5.png" width="300" alt="Een grid met cards."><img src="./readme-images/eersteversie6.png" width="300" alt="Een grid met cards"><img src="./readme-images/eersteversie7.png" width="300" alt="Een grid met cards."><img src="./readme-images/eersteversie8.png" width="300" alt="Een grid met cards.">
+
+Afgelopen woensdag was ik niet aanwezig bij het practicum, waardoor ik de opdrachten nog moest inhalen. Omdat ik ondertussen bezig was met de eerste CSS-opzet voor mijn eigen Digital Garden, leek het me leuk om **de opdrachten meteen toe te passen op mijn eigen website**. Mijn idee is om een flatgebouw te maken met allemaal verschillende ramen. Toen ik zag dat er in het practicum ook met vierkantjes werd gewerkt, dacht ik dat ik deze goed kon gebruiken als ramen voor mijn eigen website.
+
+In het begin kwam ik best langzaam op gang, omdat **ik niet zo goed wist waar ik moest beginnen**. Ik was vooral bezig met de gradients en animaties, maar kwam er later pas achter dat er ook nog aparte opdrachten waren over kleuren, zoals RGB, HSL, hex en Display-P3. Daarom heb ik deze oefeningen pas later toegevoegd, vanaf raam 25. Tijdens het maken liep ik regelmatig tegen problemen aan. Vooral bij de animaties vond ik het soms lastig om te begrijpen waarom iets niet werkte. Ik heb daarom **ChatGPT gebruikt om mijn code te controleren en om uitleg** te vragen wanneer ik ergens vastliep. Soms bleek het om een heel klein foutje te gaan, zoals een verkeerd teken of iets wat niet op de juiste plek stond.
+
+Waar ik ook tegenaan liep, was dat ik **Engelse en Nederlandse namen door elkaar gebruikte**. Bij sommige oefeningen stonden de CSS-variabelen bijvoorbeeld in het Nederlands, terwijl ik ze op mijn eigen website in het Engels had geschreven. Hierdoor werkte de code soms niet, omdat de namen niet overeenkwamen. Ik begreep eerst niet waarom er niets gebeurde, maar later kwam ik erachter dat ik goed moest controleren welke namen ik gebruikte. Ik heb tijdens deze opdrachten vooral geleerd **hoe je verschillende soorten kleurverlopen kunt maken met linear-gradient, radial-gradient en conic-gradient**. Ook heb ik geleerd hoe je kleuren op verschillende manieren kunt schrijven en mengen, bijvoorbeeld met RGB, HSL en OKLCH.
+
+Daarnaast heb ik geoefend met **:hover, transition, @property en @keyframes om animaties te maken**. Ik vond het leuk om te zien dat je met een paar regels CSS een raam kunt laten draaien, bewegen, wiebelen of van kleur kunt laten veranderen. Wat ik vooral heb geleerd, is dat **kleine fouten in CSS ervoor kunnen zorgen dat iets helemaal niet werkt**. Ik moet daarom beter letten op de schrijfwijze van mijn code en controleren of ik overal dezelfde namen gebruik.
+
+Ik begrijp nog niet alle code helemaal, vooral de ingewikkeldere animaties vind ik nog lastig. Maar doordat ik de oefeningen meteen op mijn eigen website heb toegepast, kon ik wel goed zien wat de verschillende technieken doen.
+
+Wat ik ook fijn vind, is dat **mijn eigen website nu eigenlijk een soort afkijkblad is geworden**. Omdat ik alle oefeningen in mijn ramen heb verwerkt, kan ik later makkelijk terugkijken hoe ik bepaalde kleuren, gradients of animaties heb gemaakt. Als ik bijvoorbeeld een bepaalde animatie opnieuw wil gebruiken, hoef ik niet helemaal opnieuw uit te zoeken hoe dat moet. Ik kan gewoon teruggaan naar mijn eigen code en kijken hoe ik het eerder heb gedaan. Uiteindelijk vond ik dit een leuke manier om de opdrachten in te halen. **Ik heb niet alleen nieuwe dingen geleerd en geoefend met CSS, maar ook een verzameling voorbeelden gemaakt die ik tijdens de rest van mijn project kan blijven gebruiken**.
+
 ## 20 november 2026 | Sprint 1
 
 ### Practicum Grid 101 + Media queries 101

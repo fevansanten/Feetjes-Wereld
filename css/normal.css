@@ -12,6 +12,44 @@
 /**************************
 * MARK: Custom properties
 **************************/
+:root {
+  --red: red;
+  --yellow: yellow;
+  --blue: dodgerblue;
+  --pink: pink;
+  --purple: purple;
+  --green: green;
+}
+
+@property --p {
+  syntax: "<percentage>";
+  inherits: true;
+  initial-value: 0%;
+}
+
+@property --q {
+  syntax: "<percentage>";
+  inherits: true;
+  initial-value: 0%;
+}
+
+@property --r {
+  syntax: "<percentage>";
+  inherits: true;
+  initial-value: 0%;
+}
+
+@property --s {
+  syntax: "<percentage>";
+  inherits: true;
+  initial-value: 0%;
+}
+
+@property --t {
+  syntax: "<angle>";
+  inherits: true;
+  initial-value: 0deg;
+}
 
 html {
   color-scheme: light dark;
@@ -53,6 +91,203 @@ footer {
 **************************/
 
 main {
+  display: grid;
+  justify-content: center;
+}
+
+.flat {
+  background-color: blue;
+  padding: 2em;
+}
+
+.ramen {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1em;
+}
+.raam {
+  background-image: linear-gradient(darkblue, purple);
+  width: 5em;
+  height: 5em;
+}
+
+.raam:nth-of-type(1):hover {
+  transform: scale(1.1);
+}
+
+.raam:nth-of-type(2):hover {
+  transform: rotate(5deg);
+}
+
+.raam:nth-of-type(3):hover {
+  transform: translateY(-20px);
+}
+
+.raam:nth-of-type(4):hover {
+  background-image: radial-gradient(green, yellow);
+}
+
+.raam:nth-of-type(6) {
+  background-image: linear-gradient(in oklch, blue, yellow);
+}
+
+.raam:nth-of-type(7) {
+  background-image: radial-gradient(in oklch, blue, yellow);
+}
+
+.raam:nth-of-type(8) {
+  background-image: conic-gradient(in oklch, blue, yellow);
+}
+
+.raam:nth-of-type(9) {
+  background-image: linear-gradient(45deg in oklch, blue, yellow);
+}
+
+.raam:nth-of-type(10) {
+  background-image: radial-gradient(in oklch, blue 50%, yellow 50%);
+}
+
+.raam:nth-of-type(11) {
+  background-image: conic-gradient(in oklch, blue, yellow, red, blue);
+}
+
+.raam:nth-of-type(12) {
+  background-image: repeating-linear-gradient(
+    45deg in oklch,
+    blue 0%,
+    yellow 20%
+  );
+}
+
+.raam:nth-of-type(13) {
+  background-image: linear-gradient(45deg in oklch, blue, yellow);
+  background-size: 50% 50%;
+}
+
+.raam:nth-of-type(14) {
+  background-image: linear-gradient(45deg in oklch, blue, yellow);
+  background-size: 50% 50%;
+  background-position: center center;
+}
+
+.raam:nth-of-type(15) {
+  background-image: linear-gradient(45deg in oklch, blue, yellow);
+  background-size: 50% 50%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.raam:nth-of-type(16) {
+  background-image:
+    radial-gradient(in oklch, orange, red 50%, transparent 0),
+    linear-gradient(45deg in oklch, blue, yellow);
+}
+
+.raam:nth-of-type(17) {
+  background-image: linear-gradient(
+    in oklch,
+    var(--yellow) var(--p),
+    var(--blue) calc(100% - var(--p))
+  );
+  transition: --p 2s;
+}
+
+.raam:nth-of-type(17):hover {
+  --p: 50%;
+}
+
+.raam:nth-of-type(18) {
+  background-image: conic-gradient(
+    in oklch,
+    var(--blue) var(--q),
+    var(--yellow) var(--q)
+  );
+  transition: --q 2s;
+}
+
+.raam:nth-of-type(18):hover {
+  --q: 100%;
+}
+
+.raam:nth-of-type(19) {
+  background-image: radial-gradient(
+    in oklch,
+    var(--yellow) var(--r),
+    var(--blue) calc(100% - var(--r))
+  );
+}
+
+.raam:nth-of-type(19):hover {
+  animation: --r-ani 2s ease-in-out infinite alternate;
+}
+
+@keyframes --r-ani {
+  0% {
+    --r: 0%;
+  }
+
+  100% {
+    --r: 50%;
+  }
+}
+
+.raam:nth-of-type(20) {
+  background-image: radial-gradient(
+    in oklch at var(--s) var(--s),
+    var(--yellow),
+    var(--blue)
+  );
+}
+
+.raam:nth-of-type(20):hover {
+  animation: --s-ani 2s ease-in-out infinite alternate;
+}
+
+@keyframes --s-ani {
+  0% {
+    --s: 0%;
+  }
+
+  100% {
+    --s: 100%;
+  }
+}
+
+.raam:nth-of-type(21) {
+  background-image: repeating-conic-gradient(
+    in oklch from var(--t),
+    var(--blue) 0 2%,
+    var(--yellow) 0 3%,
+    var(--blue) 0 5%
+  );
+}
+
+.raam:nth-of-type(21):hover {
+  animation: --t-ani 2s linear infinite;
+}
+
+@keyframes --t-ani {
+  0% {
+    --t: 0deg;
+  }
+
+  100% {
+    --t: 360deg;
+  }
+}
+
+.raam:nth-of-type(22) {
+  background-image: radial-gradient(
+    in oklch at var(--s) var(--s),
+    var(--yellow) var(--r),
+    var(--blue)
+  );
+}
+
+.raam:nth-of-type(22):hover {
+  animation:
+    --s-ani 2s ease-in-out infinite alternate,
+    --r-ani 2s ease-in-out infinite alternate;
 }
 
 /**************************

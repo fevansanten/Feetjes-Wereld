@@ -12,6 +12,9 @@
 /**************************
 * MARK: Custom properties
 **************************/
+/* Bron: CMD HvA, practicum light en dark mode.
+   De voorbeeldcode is aangepast met mijn eigen kleuren. */
+
 :root {
   --red: red;
   --yellow: yellow;
@@ -26,6 +29,8 @@
   --building: light-dark(#049dbf, #6c829b);
 }
 
+/* Bron: CMD HvA, practicum CSS animaties.
+   @property gebruikt voor de animaties van raam 17 t/m 22. */
 @property --p {
   syntax: "<percentage>";
   inherits: true;
@@ -102,38 +107,53 @@ main {
   justify-content: center;
 }
 
+/* Bron: CMD HvA, practicum responsive design.
+   ChatGPT heeft voorbeeldcode voorgesteld voor min(), clamp() en media queries. Deze technieken zijn toegepast op mijn flatgebouw. */
 .flat {
-  background-color: var(--building);
-  padding: clamp(0.5em, 3vw, 2em);
-  width: min(90vw, 30em);
+  background-color: var(
+    --building
+  ); /* gebruikt de kleur die bij --building is ingesteld */
+  padding: clamp(
+    1em,
+    5vw,
+    5em
+  ); /* vw = viewport width, 1vw is 1% van de schermbreedte */
+  width: min(
+    90vw,
+    50em
+  ); /* em = relatieve eenheid gebaseerd op de lettergrootte. Bij 16px geldt: 1em = 16px en 2em = 32px */
 }
 
 .ramen {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.5em;
+  display: grid; /* Zet de elementen in een raster. */
+  grid-template-columns: repeat(2, 1fr); /* maakt twee even brede kolommen */
+  gap: 1em; /* bepaalt de ruimte tussen de ramen */
 
   @media (width > 38em) {
-    gap: 1em;
+    /* past de onderstaande CSS toe als het scherm breder is dan 38em */
+    grid-template-columns: repeat(4, 1fr); /*toont vier ramen naast elkaar */
+    gap: 1em; /* vergroot de ruimte tussen de ramen */
   }
 }
 
 .raam {
   background-image: linear-gradient(darkblue, purple);
   width: 100%;
-  aspect-ratio: 1;
+  aspect-ratio: 1; /* zorgt ervoor dat de ramen vierkant blijven */
 }
 
+/* Bron: CMD HvA, CSS-practicum.
+   Hover-effecten toegepast op de ramen van mijn flatgebouw. */
 .raam:nth-of-type(1):hover {
-  transform: scale(1.1);
+  transform: scale(1.1); /* maakt het raam 10% groter */
 }
 
 .raam:nth-of-type(2):hover {
-  transform: rotate(5deg);
+  transform: rotate(5deg); /* draait het raam 5 graden */
 }
 
 .raam:nth-of-type(3):hover {
-  transform: translateY(-20px);
+  transform: translateY(-20px); /* verplaatst het raam 20 pixels omhoog */
 }
 
 .raam:nth-of-type(4):hover {
@@ -148,6 +168,8 @@ main {
   transform: scale(1.2) rotate(10deg);
 }
 
+/* Bron: CMD HvA, practicum CSS gradients.
+   De voorbeelden zijn toegepast op de ramen van mijn flatgebouw. */
 .raam:nth-of-type(6) {
   background-image: linear-gradient(in oklch, blue, yellow);
 }
@@ -204,11 +226,14 @@ main {
     linear-gradient(45deg in oklch, blue, yellow);
 }
 
+/* Bron: CMD HvA, practicum CSS animaties en gradients.
+   Gebruik van @property, transitions en keyframes. */
 .raam:nth-of-type(17) {
   background-image: linear-gradient(
     in oklch,
     var(--yellow) var(--p),
-    var(--blue) calc(100% - var(--p))
+    /* gebruikt de gele kleur tot de positie die --p aangeeft */ var(--blue)
+      calc(100% - var(--p)) /* gebruikt blauw vanaf de positie 100% min --p */
   );
   transition: --p 2s;
 }
@@ -311,6 +336,8 @@ main {
     --r-ani 2s ease-in-out infinite alternate;
 }
 
+/* CSS-animaties toegepast op mijn eigen ramen.
+   ChatGPT gebruikt voor uitleg en hulp bij het uitwerken. */
 .raam:nth-of-type(23):hover {
   animation: wiebelen 0.5s infinite alternate;
 }
@@ -339,6 +366,8 @@ main {
   }
 }
 
+/* Bron: CMD HvA, practicum CSS kleuren.
+   Oefeningen met RGB, HSL, HEX en Display-P3. */
 .raam:nth-of-type(25) {
   background-color: rgb(255, 0, 0);
   background-image: none;
@@ -399,6 +428,8 @@ main {
   background-image: none;
 }
 
+/* Bron: CMD HvA, practicum kleurinterpolatie.
+   Verschillende kleurverlopen met sRGB, HSL en OKLCH. */
 .raam:nth-of-type(37) {
   background-image: linear-gradient(in srgb, red, blue);
 }
@@ -428,6 +459,8 @@ main {
   );
 }
 
+/* Bron: CMD HvA, practicum CSS gradients.
+   Vlaggen gemaakt met linear-gradient en radial-gradient. */
 .raam:nth-of-type(42) {
   background-image: linear-gradient(
     var(--red) 33.33%,

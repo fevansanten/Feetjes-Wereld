@@ -10,9 +10,15 @@
 
 #### Oefening 2: Cards 101
 
+<img src="./readme-images/cards101.png" width="300" alt="Layout van een card.">
+
 #### Oefening 3: Responsive card
 
+<img src="./readme-images/responsivecard1.png" width="300" alt="Responsive card stap 1."><img src="./readme-images/responsivecard2.png" width="300" alt="Responsive card stap 2."><img src="./readme-images/responsivecard3.png" width="300" alt="Responsive card stap 3."><img src="./readme-images/responsivecard4.png" width="300" alt="Responsive card stap 4."><img src="./readme-images/responsivecard5.png" width="300" alt="Responsive card stap 5.">
+
 #### Oefening 4: Een grid met cards
+
+<img src="./readme-images/eengridmetcards1.png" width="200" alt="Een grid met cards stap 1."><img src="./readme-images/eengridmetcards2.png" width="200" alt="Een grid met cards stap 2."><img src="./readme-images/eengridmetcards3.png" width="200" alt="Een grid met cards stap 3."><img src="./readme-images/eengridmetcards4.png" width="200" alt="Een grid met cards stap 4 .">
 
 ### Opdracht 13: Van schets naar HTML
 

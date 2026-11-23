@@ -2,14 +2,14 @@
 
 ## 23 november 2026 | Sprint 1
 
-<img src="./readme-images/biweeklygeek1.png" width="300" alt="Een grid met cards.">
-<img src="./readme-images/biweeklygeek11.png" width="300" alt="Een grid met cards.">
+<img src="./readme-images/biweeklygeek1.png" width="300" alt="Bi-weekly geek 1. Vraag: Moeten kritieke internetdiensten in handen zijn van commerciële bedrijven?">
+<img src="./readme-images/biweeklygeek11.png" width="300" alt="Bi-weekly geek 1. Vraag: Is toegang tot het internet een mensenrecht?">
 
 ## 22 november 2026 | Sprint 1
 
 #### Leerproces, CSS, kleuren en animaties
 
-<img src="./readme-images/eersteversie1.png" width="300" alt="Een grid met cards."><img src="./readme-images/eersteversie2.png" width="300" alt="Een grid met cards"><img src="./readme-images/eersteversie3.png" width="300" alt="Een grid met cards."><img src="./readme-images/eersteversie4.png" width="300" alt="Een grid met cards"><img src="./readme-images/eersteversie5.png" width="300" alt="Een grid met cards."><img src="./readme-images/eersteversie6.png" width="300" alt="Een grid met cards"><img src="./readme-images/eersteversie7.png" width="300" alt="Een grid met cards."><img src="./readme-images/eersteversie8.png" width="300" alt="Een grid met cards.">
+<img src="./readme-images/eersteversie1.png" width="300" alt="Een grid met cards. proces 1"><img src="./readme-images/eersteversie2.png" width="300" alt="Een grid met cards. proces 2"><img src="./readme-images/eersteversie3.png" width="300" alt="Een grid met cards. proces 3"><img src="./readme-images/eersteversie4.png" width="300" alt="Een grid met cards. proces 4"><img src="./readme-images/eersteversie5.png" width="300" alt="Een grid met cards. proces 5"><img src="./readme-images/eersteversie6.png" width="300" alt="Een grid met cards. proces 6"><img src="./readme-images/eersteversie7.png" width="300" alt="Een grid met cards. proces 7"><img src="./readme-images/eersteversie8.png" width="300" alt="Een grid met cards. proces 8">
 
 Afgelopen woensdag was ik niet aanwezig bij het practicum, waardoor ik de opdrachten nog moest inhalen. Omdat ik ondertussen bezig was met de eerste CSS-opzet voor mijn eigen Digital Garden, leek het me leuk om **de opdrachten meteen toe te passen op mijn eigen website**. Mijn idee is om een flatgebouw te maken met allemaal verschillende ramen. Toen ik zag dat er in het practicum ook met vierkantjes werd gewerkt, dacht ik dat ik deze goed kon gebruiken als ramen voor mijn eigen website.
 

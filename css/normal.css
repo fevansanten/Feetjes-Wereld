@@ -105,10 +105,11 @@ footer {
 main {
   display: grid;
   justify-content: center;
+  max-width: 30em;
 }
 
 /* Bron: CMD HvA, practicum responsive design.
-   ChatGPT heeft voorbeeldcode voorgesteld voor min(), clamp() en media queries. Deze technieken zijn toegepast op mijn flatgebouw. */
+   Met hulp van ChatGPT de code aangepast zodat mijn flatgebouw responsive is. */
 .flat {
   background-color: var(
     --building
@@ -129,8 +130,8 @@ main {
   grid-template-columns: repeat(2, 1fr); /* maakt twee even brede kolommen */
   gap: 1em; /* bepaalt de ruimte tussen de ramen */
 
-  @media (width > 38em) {
-    /* past de onderstaande CSS toe als het scherm breder is dan 38em */
+  @media (width > 30em) {
+    /* past de onderstaande CSS toe als het scherm breder is dan 30em */
     grid-template-columns: repeat(4, 1fr); /*toont vier ramen naast elkaar */
     gap: 1em; /* vergroot de ruimte tussen de ramen */
   }

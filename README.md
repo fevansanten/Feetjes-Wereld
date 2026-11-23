@@ -1,5 +1,10 @@
 # Learning Log
 
+## 23 november 2026 | Sprint 1
+
+<img src="./readme-images/biweeklygeek1.png" width="300" alt="Een grid met cards.">
+<img src="./readme-images/biweeklygeek11.png" width="300" alt="Een grid met cards.">
+
 ## 22 november 2026 | Sprint 1
 
 #### Leerproces, CSS, kleuren en animaties

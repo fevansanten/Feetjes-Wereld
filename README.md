@@ -1,5 +1,11 @@
 # Learning Log
 
+## 25 november 2026 | Sprint 1
+
+<img src="./readme-images/gestaltprincipes1.png" width="300" alt="gestalt principes contrast">
+<img src="./readme-images/gestaltprincipes2.png" width="300" alt="gestalt principes witruimte en hiërarchie">
+<img src="./readme-images/gestaltprincipes3.png" width="300" alt="gestalt principes laptop formaat">
+
 ## 24 november 2026 | Sprint 1
 
 ### Oefenen: content images

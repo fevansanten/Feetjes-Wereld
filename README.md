@@ -1,6 +1,30 @@
 # Learning Log
 
+## 24 november 2026 | Sprint 1
+
+### Oefenen: content images
+
+<img src="./readme-images/practicumeverythingimages1.png" width="300" alt="Oefenen: content images">
+<img src="./readme-images/practicumeverythingimages2.png" width="300" alt="Oefenen: content images">
+<img src="./readme-images/practicumeverythingimages3.png" width="300" alt="Oefenen: content images">
+
+### Oefenen: Background images
+
+<img src="./readme-images/practicumeverythingimages4.png" width="300" alt="Background images">
+
+### Spelen: SVG
+
+<img src="./readme-images/practicumeverythingimages5.png" width="300" alt="Spelen: SVG">
+
 ## 23 november 2026 | Sprint 1
+
+### Check-out
+
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+**Een website is lelijk wanneer er geen duidelijke structuur in je website is. Een voorbeeld hiervoor is als je tekst langer is dan 30em. Als het breeder is dan 30em is het niet meer fijn om de website te lezen.**
+Vertel welke volgende stap je neemt om je website responsive te maken.
+**@media (width > 30em)**
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 
 <img src="./readme-images/biweeklygeek1.png" width="300" alt="Bi-weekly geek 1. Vraag: Moeten kritieke internetdiensten in handen zijn van commerciële bedrijven?">
 <img src="./readme-images/biweeklygeek11.png" width="300" alt="Bi-weekly geek 1. Vraag: Is toegang tot het internet een mensenrecht?">

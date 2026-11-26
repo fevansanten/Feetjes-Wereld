@@ -23,6 +23,21 @@
   --pink: pink;
   --purple: purple;
   --green: green;
+  --violet: violet;
+  --plum: plum;
+  --blueviolet: blueviolet;
+  --deeppink: deeppink;
+  --seagreen: seagreen;
+  --olive: olive;
+  --darkgreen: darkgreen;
+  --orange: orange;
+  --maroon: maroon;
+  --saddlebrown: saddlebrown;
+  --lightblue: lightblue;
+  --turquoise: turquoise;
+  --navy: navy;
+  --cyan: cyan;
+  --limegreen: limegreen;
 
   color-scheme: light dark;
   --background: light-dark(#b8ddf2, #4b3c57);
@@ -67,13 +82,13 @@ html {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: clamp(1.8em, 6vw, 4em);
   text-align: center;
   margin-top: 1em;
 }
 
 p {
-  font-size: 2em;
+  font-size: clamp(1em, 3vw, 2em);
   text-align: center;
   line-height: 1em;
 }
@@ -208,15 +223,43 @@ main {
 }
 
 .raam:nth-of-type(8) {
-  background-image: conic-gradient(in oklch, blue, yellow);
+  background-image: radial-gradient(
+    in oklch at var(--s) var(--s),
+    var(--olive),
+    var(--purple)
+  );
+}
+
+.raam:nth-of-type(8):hover {
+  animation: --s-ani 1s ease-in-out infinite alternate;
+}
+
+@keyframes --s-ani {
+  0% {
+    --s: 50%;
+  }
+
+  100% {
+    --s: 50%;
+  }
 }
 
 .raam:nth-of-type(9) {
-  background-image: linear-gradient(45deg in oklch, blue, yellow);
+  background-image: linear-gradient(45deg in oklch, pink, teal);
 }
 
 .raam:nth-of-type(10) {
-  background-image: radial-gradient(in oklch, blue 50%, yellow 50%);
+  background-image: radial-gradient(
+    in oklch at var(--s) var(--s),
+    var(--green) var(--r),
+    var(--blue)
+  );
+}
+
+.raam:nth-of-type(10):hover {
+  animation:
+    --s-ani 2s ease-in-out infinite alternate,
+    --r-ani 2s ease-in-out infinite alternate;
 }
 
 .raam:nth-of-type(11) {
@@ -237,9 +280,11 @@ main {
 }
 
 .raam:nth-of-type(14) {
-  background-image: linear-gradient(45deg in oklch, blue, yellow);
-  background-size: 50% 50%;
-  background-position: center center;
+  background-image: linear-gradient(
+    in oklch longer hue,
+    rgb(0, 255, 251),
+    rgb(17, 255, 0)
+  );
 }
 
 .raam:nth-of-type(15) {
@@ -287,7 +332,7 @@ main {
 .raam:nth-of-type(19) {
   background-image: radial-gradient(
     in oklch,
-    var(--yellow) var(--r),
+    var(--lightblue) var(--r),
     var(--blue) calc(100% - var(--r))
   );
 }
@@ -398,10 +443,14 @@ main {
 /* Bron: CMD HvA, practicum CSS kleuren.
    Oefeningen met RGB, HSL, HEX en Display-P3. */
 .raam:nth-of-type(25) {
-  background-color: rgb(255, 0, 0);
-  background-image: none;
+  background-image: linear-gradient(
+    to right in oklch,
+    var(--red) var(--p),
+    /* gebruikt de gele kleur tot de positie die --p aangeeft */ var(--pink)
+      calc(100% - var(--p)) /* gebruikt blauw vanaf de positie 100% min --p */
+  );
+  transition: --p 2s;
 }
-
 .raam:nth-of-type(26) {
   background-color: rgb(255 0 0);
   background-image: none;
@@ -413,23 +462,51 @@ main {
 }
 
 .raam:nth-of-type(28) {
-  background-color: hsl(0 100% 50%);
-  background-image: none;
+  background-image: radial-gradient(
+    in oklch,
+    var(--red) var(--r),
+    var(--blue) calc(100% - var(--r))
+  );
 }
 
-.raam:nth-of-type(29) {
-  background-color: hsl(10 100% 50%);
-  background-image: none;
+.raam:nth-of-type(28):hover {
+  animation: --r-ani 2s ease-in infinite alternate;
+}
+
+@keyframes --r-ani {
+  0% {
+    --r: 0%;
+  }
+
+  100% {
+    --r: 50%;
+  }
 }
 
 .raam:nth-of-type(30) {
-  background-color: hsl(20 100% 50%);
-  background-image: none;
+  background-image: radial-gradient(
+    in oklch at var(--s) var(--s),
+    var(--violet) var(--r),
+    var(--orange)
+  );
 }
 
+.raam:nth-of-type(30):hover {
+  animation:
+    --s-ani 2s ease-in-out infinite alternate,
+    --r-ani 2s ease-in-out infinite alternate;
+}
 .raam:nth-of-type(31) {
-  background-color: hsl(350 100% 50%);
-  background-image: none;
+  background-image: linear-gradient(
+    to right,
+    yellow,
+    red,
+    green,
+    orange,
+    indigo,
+    blue,
+    violet
+  );
 }
 
 .raam:nth-of-type(32) {

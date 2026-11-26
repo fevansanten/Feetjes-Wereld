@@ -8,7 +8,7 @@
 
 ### Opdracht 19 & 20: Witruimte & Hiërarchie (Gestaltprincipes, witruimte & hiërarchie)
 
-<img src="./readme-images/gestaltprincipes2.png" width="300" alt="Opdracht 19 en 20:witruimte en hiërarchie">
+<img src="./readme-images/gestaltprincipes2.png" width="300" alt="Opdracht 19 en 20: witruimte en hiërarchie">
 <p>Bij deze opdracht ontdekte ik iets wat ik graag wil meenemen in mijn Digital Garden. Ik vond het interessant om het flatgebouw mee te laten bewegen wanneer je op een kamer klikt. In plaats van dat het gebouw in het midden blijft staan, verschuift het iets naar rechts. Hierdoor komt de aangeklikte kamer meer centraal in beeld te staan.</p>
 
 ### Opdracht 21: Verhoudingen & Grid (Gestaltprincipes, grid)
@@ -20,7 +20,7 @@
 
 ### Checkout:
 
-**Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.**
+**Noem 3 Gestalt- of Designprincipes op en laat de ander uitleggen wat ze betekenen en doen.**
 
 <p>Contrast laat onderdelen opvallen, witruimte zorgt voor rust en visuele hiërarchie bepaalt waar je als eerste naar kijkt.</p>
 
@@ -55,13 +55,13 @@
 
 ### Opdracht 16: Van one-column layout naar een responsive design
 
-<img src="./readme-images/responsivedesign.png" width="300" alt="">
+<img src="./readme-images/responsivedesign.png" width="300" alt="Responsive indeling van mijn Digital Garden">
 <p>Voor deze opdracht heb ik gekeken hoe mijn Digital Garden zich aanpast aan verschillende schermformaten. Tijdens het practicum Grid 101 van vorige week vrijdag had ik bij de oefening Responsive Card al geleerd hoe je met media queries de indeling van een website kunt aanpassen. Deze kennis had ik toen ook al toegepast op mijn eigen Digital Garden. In de screenshots laat ik zien hoe ik mijn website responsive heb gemaakt en hoe de indeling van de ramen verandert wanneer je het scherm groter of kleiner maakt. Ook heb ik gecontroleerd hoe mijn website eruitziet op mijn telefoon.</p>
 
 ### Responsive design: Weergave op telefoon
 
-<img src="./readme-images/responsivedesign1.png" width="300" alt="Bi-weekly geek 1. Vraag: Moeten kritieke internetdiensten in handen zijn van commerciële bedrijven?">
-<img src="./readme-images/telefoonformaat1.png" width="100" alt=""><img src="./readme-images/telefoonformaat2.png" width="100" alt="">
+<img src="./readme-images/responsivedesign1.png" width="300" alt="CSS-code voor de responsive mobiele weergave">
+<img src="./readme-images/telefoonformaat1.png" width="100" alt="CSS-code voor de responsive mobiele weergave"><img src="./readme-images/telefoonformaat2.png" width="100" alt="CSS-code voor de responsive mobiele weergave">
 <p>Voor de mobiele weergave van mijn Digital Garden heb ik gekeken hoe de tekst op een kleiner scherm wordt weergegeven. Met een media query heb ik de lettergrootte apart aangepast voor schermen smaller dan 40em. Hierdoor kan ik de tekst op mijn telefoon anders vormgeven dan op mijn laptop. In de screenshot laat ik zien hoe ik dit in mijn CSS heb toegepast.</p>
 
 ### Werkbladen van de Bi-weekly Geek 1
@@ -83,22 +83,15 @@
 
 **Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?**
 
-<p>Een website is lelijk wanneer er geen duidelijke structuur in je website is. Een voorbeeld hiervoor is als je tekst langer is dan 30em. Als het breeder is dan 30em is het niet meer fijn om de website te lezen.</p>
+<p>Een website wordt minder prettig om te gebruiken wanneer er geen duidelijke structuur is. Bijvoorbeeld wanneer tekstregels te breed zijn, waardoor de tekst moeilijker te lezen wordt. Dit kun je verbeteren door een maximale tekstbreedte in te stellen.</p>
 
 **Vertel welke volgende stap je neemt om je website responsive te maken.**
 
-<p>@media (width > 30em)</p>
+<p>Ik wil met media queries de indeling van mijn flatgebouw aanpassen, zodat de ramen op verschillende schermformaten goed worden weergegeven.</p>
 
 **Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?**
 
-<p>
-Bij jouw Digital Garden kun je bijvoorbeeld benoemen:
-
-- CSS Grid: om de ramen van je flatgebouw in te delen.
-- Responsive design: om je website op verschillende schermformaten te laten werken.
-- Interactie: bezoekers kunnen op ramen klikken om kamers te ontdekken.
-- Animaties: om je website speelser te maken.
-- Visuele hiërarchie: om belangrijke onderdelen duidelijker te maken.</p>
+<p>Ik gebruik CSS Grid om mijn flatgebouw in te delen, media queries om mijn website responsive te maken en animaties en interacties om bezoekers mijn digitale wereld te laten ontdekken.</p>
 
 ## 22 november 2026 | Sprint 1
 
@@ -151,9 +144,9 @@ Wat ik ook fijn vind, is dat **mijn eigen website nu eigenlijk een soort afkijkb
 
 ### Mobile first schetsen beoordelen
 
-<img src="./readme-images/schetsenschermbeoordelen.png" width="200" alt="Beoordeleningsformulier voor de gemaakte schetsen.">
+<img src="./readme-images/schetsenschermbeoordelen.png" width="200" alt="Beoordelingsformulier voor de gemaakte schetsen.">
 
-**1. zijn je schetsen Webby genoeg?**
+**1. Zijn je schetsen Webby genoeg?**
 
 <p>Mijn schetsen zijn Webby doordat ik gebruikmaak van interacties, animaties en een duidelijke visuele hiërarchie. Bezoekers kunnen zelf verschillende ramen ontdekken en bepalen waar ze naartoe willen.</p>
 
@@ -165,7 +158,7 @@ Wat ik ook fijn vind, is dat **mijn eigen website nu eigenlijk een soort afkijkb
 
 <p>Wat ik nog lastig vind, is hoe ik de ramen responsive kan maken zonder dat de verhoudingen veranderen. Ook moet ik nog onderzoeken hoe ik de interacties kan maken waarmee bezoekers de verschillende kamers kunnen openen.</p>
 
-**4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.**
+**4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in html/css.**
 
 <p>Op basis van mijn schetsen wil ik verder met het flatgebouw als basis voor mijn Digital Garden. Ik ga eerst de indeling van de ramen maken met HTML en CSS en daarna verder experimenteren met animaties en interacties.</p>
 
@@ -173,8 +166,8 @@ Wat ik ook fijn vind, is dat **mijn eigen website nu eigenlijk een soort afkijkb
 
 ### Schetsen
 
-<img src="./readme-images/schetstelefoonscherm1.png" width="300" alt="Schetsen voor het telefoon scherm.">
-<img src="./readme-images/schetstelefoonscherm2.png" width="300" alt="Schetsen voor het telefoon scherm.">
+<img src="./readme-images/schetstelefoonscherm1.png" width="300" alt="Schetsen voor het telefoonscherm.">
+<img src="./readme-images/schetstelefoonscherm2.png" width="300" alt="Schetsen voor het telefoonscherm.">
 <p>Voor mijn eerste schetsen heb ik geprobeerd om mijn idee voor de Digital Garden visueel te maken. Ik heb twee schetsen gemaakt waarin ik in vijf verschillende stappen laat zien hoe ik op dit moment voor me zie dat bezoekers mijn website gaan gebruiken. De schetsen laten zien hoe ik wil dat de website werkt en hoe bezoekers door mijn digitale wereld kunnen navigeren. Dit is mijn eerste idee en kan tijdens het ontwerpen en bouwen nog veranderen.</p>
 
 ### Kleurenpalet
@@ -191,7 +184,7 @@ Wat ik ook fijn vind, is dat **mijn eigen website nu eigenlijk een soort afkijkb
 
 ### Fonts
 
-<img src="./readme-images/font1.png" width="300" alt="kleurenpalet van light mode"><img src="./readme-images/font2.png" width="300" alt="kleurenpalet van light mode"><img src="./readme-images/font3.png" width="300" alt="kleurenpalet van light mode"><img src="./readme-images/font4.png" width="300" alt="kleurenpalet van light mode"><img src="./readme-images/font5.png" width="300" alt="kleurenpalet van light mode">
+<img src="./readme-images/font1.png" width="300" alt="Font inspiratie Jack"><img src="./readme-images/font2.png" width="300" alt="Font inspiratie Yerk"><img src="./readme-images/font3.png" width="300" alt="Font inspiratie Damson"><img src="./readme-images/font4.png" width="300" alt="Font inspiratie Discovery"><img src="./readme-images/font5.png" width="300" alt="Font inspiratie  Cheee">
 
 Ik heb in Adobe Fonts gezocht naar verschillende lettertypes die passen bij mijn Digital Garden. Ik wilde vooral iets speels en experimenteels, omdat ik niet wil dat mijn website er te standaard uitziet. Ik heb 5 lettertypes gevonden: Yerk, Discovery, Jack, Damson en Cheee. Ze zijn allemaal vrij verschillend, maar hebben wel iets opvallends. Vooral de bijzondere vormen spreken mij aan.
 Ik weet nog niet welk lettertype ik uiteindelijk ga gebruiken. Dat wil ik verder onderzoeken wanneer ik mijn website ga vormgeven.
@@ -207,7 +200,7 @@ Haar feedback ging over dat de lampen in de kamer geven licht in het begin.
 
 **Mijn onderwerp: Een kijkje in mijn brein.**
 
-**Sfeerworden en kernwoorden: 'ik voel mij…'.**
+**Sfeerwoorden en kernwoorden: 'ik voel mij…'.**
 
 - Veilig
 - Begrepen
@@ -234,7 +227,7 @@ Ja, door een grid te gaan gebruiken.
 Ja zeker! Ik heb veel uitdaging om dit te gaan maken.
 
 **Is het idee leuk en verrassend?**
-Ik denk niet dat het verrassend is dat ik iets wil doen met mijn innerlijke gedachtes, maar ik denk wel dat het uniek is op de manier waarop ik het wil vormgeven.
+Ik denk niet dat het verrassend is dat ik iets wil doen met mijn innerlijke gedachten, maar ik denk wel dat het uniek is op de manier waarop ik het wil vormgeven.
 
 ### Checkout
 
@@ -274,7 +267,7 @@ Ik zou het liefst verder willen met schets 2 en 3, waarbij je echt naar binnen k
 
 ### Presentatie voor woensdag 18 november
 
-<img src="./readme-images/presentatie1.png" width="300" alt="presentatie pagina 1"><img src="./readme-images/presentatie2.png" width="300" alt="presentatie pagina 2"><img src="./readme-images/presentatie3.png" width="300" alt="presentatie pagina 3"><img src="./readme-images/presentatie4.png" width="300" alt="presentatie pagina 4"><img src="./readme-images/presentatie5.png" width="300" alt="presentatie pagina 5"><img src="./readme-images/presentatie6.png" width="300" alt="presentatie pagina 6"><img src="./readme-images/presentatie7.png" width="300" alt="presentatie pagina 7"><img src="./readme-images/presentatie8.png" width="300" alt="presentatie pagina 8"><img src="./readme-images/presentatie9.png" width="300" alt="presentatie pagina 9"><img src="./readme-images/presentatie10.png" width="300" alt="10"><img src="./readme-images/presentatie11.png" width="300" alt="presentatie pagina 11"><img src="./readme-images/presentatie12.png" width="300" alt="presentatie pagina 12">
+<img src="./readme-images/presentatie1.png" width="300" alt="presentatie pagina 1"><img src="./readme-images/presentatie2.png" width="300" alt="presentatie pagina 2"><img src="./readme-images/presentatie3.png" width="300" alt="presentatie pagina 3"><img src="./readme-images/presentatie4.png" width="300" alt="presentatie pagina 4"><img src="./readme-images/presentatie5.png" width="300" alt="presentatie pagina 5"><img src="./readme-images/presentatie6.png" width="300" alt="presentatie pagina 6"><img src="./readme-images/presentatie7.png" width="300" alt="presentatie pagina 7"><img src="./readme-images/presentatie8.png" width="300" alt="presentatie pagina 8"><img src="./readme-images/presentatie9.png" width="300" alt="presentatie pagina 9"><img src="./readme-images/presentatie10.png" width="300" alt="presentatie pagina 10"><img src="./readme-images/presentatie11.png" width="300" alt="presentatie pagina 11"><img src="./readme-images/presentatie12.png" width="300" alt="presentatie pagina 12">
 
 ### Reflectie: presentatie maken
 
@@ -316,7 +309,7 @@ Er zijn heel veel verschillende dingen die mij bezighouden, zoals maatschappelij
 
 **Content van anderen:**
 
-animeren. Het liefst wil ik zo min mogelijk tekst gebruiken en juist met beeld mijn verhaal vertellen. Waar nodig kan ik natuurlijk altijd tekst toevoegen. Ik zou wel graag muziek die ik op dat moment luister willen verwerken in mijn website. Bijvoorbeeld door een albumcover te animeren in plaats van alleen een afbeelding te plaatsen. Ook lijkt het me leuk om soms een video of iets wat ik op social media tegenkom en wat me bijblijft, te verwerken in mijn Digital Garden. Ik moet hierbij natuurlijk wel rekening houden met auteursrechten. Ik kan niet zomaar muziek, afbeeldingen of video’s van anderen gebruiken of aanpassen. Ik zou bijvoorbeeld naar de originele content kunnen linken, muziek via een officiële embed kunnen toevoegen of mijn eigen illustraties maken die geïnspireerd zijn op wat ik heb gezien. Zo kan ik er toch mijn eigen verhaal van maken.
+Het liefst wil ik zo min mogelijk tekst gebruiken en juist met beeld mijn verhaal vertellen. Waar nodig kan ik natuurlijk altijd tekst toevoegen. Ik zou wel graag muziek die ik op dat moment luister willen verwerken in mijn website. Bijvoorbeeld door een albumcover te animeren in plaats van alleen een afbeelding te plaatsen. Ook lijkt het me leuk om soms een video of iets wat ik op social media tegenkom en wat me bijblijft, te verwerken in mijn Digital Garden. Ik moet hierbij natuurlijk wel rekening houden met auteursrechten. Ik kan niet zomaar muziek, afbeeldingen of video’s van anderen gebruiken of aanpassen. Ik zou bijvoorbeeld naar de originele content kunnen linken, muziek via een officiële embed kunnen toevoegen of mijn eigen illustraties maken die geïnspireerd zijn op wat ik heb gezien. Zo kan ik er toch mijn eigen verhaal van maken.
 
 **De ervaring:**
 
@@ -325,7 +318,7 @@ Ik wil dat bezoekers mijn Digital Garden echt kunnen ervaren, alsof ze door een 
 ### Opdracht 3: Verzamelen van inspiratie
 
 <img src="./readme-images/inspiratieboard.png" width="400" alt="Inspiratie foto's">
-<small>Collage van de inspiratie foto's
+<small>Collage van de inspiratiefoto's</small>
 
 ### Checkout:
 
@@ -359,18 +352,21 @@ Vervolgens ging ik aan de slag met de vetgedrukte versie van Expletus Sans. Hier
 Wat ik eerst niet begreep, was waarom ik twee keer @font-face nodig had. Beide bestanden horen tenslotte bij hetzelfde lettertype. Later ontdekte ik dat je hiermee aangeeft welke variant de browser moet gebruiken bij normale of vetgedrukte tekst.</small>
 
 <img src="./readme-images/cssoefening4.png" width="200" alt="CSS stap 4">
-<small>Stap 4: Het lettertype toepassen
+<small>
+Stap 4: Het lettertype toepassen
 Nu beide varianten waren toegevoegd, dacht ik dat het lettertype automatisch zichtbaar zou zijn. Dat bleek niet zo te werken.
 Met font-family moest ik nog aangeven dat de tekst in het hoofdgedeelte van de pagina Expletus Sans moest gebruiken. Hierdoor begreep ik het verschil tussen een lettertype beschikbaar maken en het daadwerkelijk toepassen op een element.</small>
 
 <img src="./readme-images/cssoefening5.png" width="200" alt="CSS stap 5">
-<small>Stap 5: De tekst vormgeven
+<small>
+Stap 5: De tekst vormgeven
 Daarna kon ik beginnen met het aanpassen van de tekst zelf. Ik experimenteerde met de lettergrootte, letterdikte, kleur en regelafstand.
 Dit ging niet meteen goed. Zo had ik een letterdikte van 500 ingesteld, terwijl ik alleen de varianten 400 en 700 had toegevoegd. Daarnaast werd mijn hele alinea roze, terwijl dat niet de bedoeling was. Ik heb de tekst daarom weer zwart gemaakt.
 Door deze aanpassingen zag ik steeds beter welk effect de verschillende CSS-properties hadden. Vooral het verschil tussen de eigenschappen en de waarden die je eraan geeft, werd duidelijker.</small>
 
 <img src="./readme-images/cssoefening6.png" width="200" alt="CSS stap 6">
-<small>Stap 6: De eerste letter aanpassen
+<small>
+Stap 6: De eerste letter aanpassen
 De laatste stap was het vormgeven van de eerste letter van de alinea. Met ::first-letter kon ik specifiek die ene letter selecteren.
 Vervolgens heb ik deze groter en vetgedrukt gemaakt en de dieproze kleur uit de opdracht toegepast. Dit onderdeel vond ik interessant, omdat ik niet wist dat je met CSS zo gericht één letter kon aanpassen.
 
@@ -430,8 +426,8 @@ Als laatste heb ik het eindresultaat bekeken. Mijn pagina heeft nu een duidelijk
 Ik heb de maximale breedte van mijn pagina aangepast en de inhoud gecentreerd. Hierdoor worden de tekstregels korter en is de tekst makkelijker te lezen.</small>
 
 <img src="./readme-images/step2.png" width="200" alt="Stap 2">
-<small>Stap 1: De tekstbreedte aanpassen
-Ik heb de maximale breedte van mijn pagina aangepast en de inhoud gecentreerd. Hierdoor worden de tekstregels korter en is de tekst makkelijker te lezen.</small>
+<small>Stap 2: Het lettertype aanpassen
+Vervolgens heb ik met font-family het lettertype aangepast om de tekst beter leesbaar te maken.</small>
 
 <img src="./readme-images/step3.png" width="200" alt="Stap 3">
 <small>Stap 3: Alinea’s toevoegen
@@ -465,15 +461,15 @@ Ik vond deze opdracht best lastig, omdat ik in het begin eigenlijk geen idee had
 
 #### Schets oefeningen:
 
-<img src="./readme-images/strepen.png" width="100" alt="Oefening 1"> <small>Oefening om rechten lijnen te tekenen.</small>
+<img src="./readme-images/strepen.png" width="100" alt="Oefening 1"> <small>Oefening om rechte lijnen te tekenen.</small>
 
-<img src="./readme-images/Vierkanten.png" width="100" alt="Oefening 2"> <small>Oefening om rechten vierkanten te tekenen.</small>
+<img src="./readme-images/Vierkanten.png" width="100" alt="Oefening 2"> <small>Oefening om rechte vierkanten te tekenen.</small>
 
-<img src="./readme-images/Telefoon.png" width="100" alt="Oefening 3"> <small>Oefening om je telefoon in ware grote te schetsen.</small>
+<img src="./readme-images/Telefoon.png" width="100" alt="Oefening 3"> <small>Oefening om je telefoon in ware grootte te schetsen.</small>
 
 #### Oefening rangschikken:
 
-<img src="./readme-images/Schetsenvan1tm10.png" width="200" alt="Gezamelijke opdracht"> 
+<img src="./readme-images/Schetsenvan1tm10.png" width="200" alt="Gezamenlijke opdracht"> 
 <small>Schetsen van Heleen rangschikken.</small>
 
 #### mi-fi schets:
@@ -505,7 +501,7 @@ Voor de mi-fi-schets heb ik de website van HEMA als voorbeeld gebruikt. Ook hebb
 
 #### Inspiratie van andere forms:
 
-<img src="./readme-images/voorbeeld1.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld2.png" width="200" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld3.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld4.png" width="200" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld5.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld5.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld6.png" width="100" alt="Inspiratie foto van pinterest">
+<img src="./readme-images/voorbeeld1.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld2.png" width="200" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld3.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld4.png" width="200" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld5.png" width="100" alt="Inspiratie foto van pinterest"> <img src="./readme-images/voorbeeld6.png" width="100" alt="Inspiratie foto van pinterest">
 <small>Bron: Pinterest, oorspronkelijke links onbekend.</small>
 
 #### Eigen geschetste form:
@@ -611,8 +607,7 @@ Ik kan aanpassingen maken in VSCodium. Vervolgens moet ik mijn wijzigingen opsla
 
 ### Bronnen en hulpmiddelen
 
-**Bronnen en hulpmiddelen:**
-Bronnen en hulpmiddelen
+**Bronnen**
 
 - GitHub Docs: Uitleg over Markdown en het toevoegen van afbeeldingen.
 - MDN Web Docs, HTML-tabellen: Uitleg over het gebruik van, src, width en alt.

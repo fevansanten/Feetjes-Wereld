@@ -61,7 +61,7 @@
 ### Responsive design: Weergave op telefoon
 
 <img src="./readme-images/responsivedesign1.png" width="300" alt="CSS-code voor de responsive mobiele weergave">
-<img src="./readme-images/telefoonformaat1.png" width="100" alt="CSS-code voor de responsive mobiele weergave"><img src="./readme-images/telefoonformaat2.png" width="100" alt="CSS-code voor de responsive mobiele weergave">
+<img src="./readme-images/telefoonformaat1.PNG" width="100" alt="CSS-code voor de responsive mobiele weergave"><img src="./readme-images/telefoonformaat2.PNG" width="100" alt="CSS-code voor de responsive mobiele weergave">
 <p>Voor de mobiele weergave van mijn Digital Garden heb ik gekeken hoe de tekst op een kleiner scherm wordt weergegeven. Met een media query heb ik de lettergrootte apart aangepast voor schermen smaller dan 40em. Hierdoor kan ik de tekst op mijn telefoon anders vormgeven dan op mijn laptop. In de screenshot laat ik zien hoe ik dit in mijn CSS heb toegepast.</p>
 
 ### Werkbladen van de Bi-weekly Geek 1

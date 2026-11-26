@@ -2,9 +2,35 @@
 
 ## 25 november 2026 | Sprint 1
 
-<img src="./readme-images/gestaltprincipes1.png" width="300" alt="gestalt principes contrast">
-<img src="./readme-images/gestaltprincipes2.png" width="300" alt="gestalt principes witruimte en hiërarchie">
-<img src="./readme-images/gestaltprincipes3.png" width="300" alt="gestalt principes laptop formaat">
+### Opdracht 18: Contrast (Gestaltprincipes, contrast)
+
+<img src="./readme-images/gestaltprincipes1.png" width="300" alt="Opdracht 18: Contrast">
+
+### Opdracht 19 & 20: Witruimte & Hiërarchie (Gestaltprincipes, witruimte & hiërarchie)
+
+<img src="./readme-images/gestaltprincipes2.png" width="300" alt="Opdracht 19 en 20:witruimte en hiërarchie">
+<p>Bij deze opdracht ontdekte ik iets wat ik graag wil meenemen in mijn Digital Garden. Ik vond het interessant om het flatgebouw mee te laten bewegen wanneer je op een kamer klikt. In plaats van dat het gebouw in het midden blijft staan, verschuift het iets naar rechts. Hierdoor komt de aangeklikte kamer meer centraal in beeld te staan.</p>
+
+### Opdracht 21: Verhoudingen & Grid (Gestaltprincipes, grid)
+
+<img src="./readme-images/gestaltprincipes3.png" width="300" alt="Opdracht 21: Verhoudingen & Grid">
+<p>Voor deze opdracht heeft Helena een alternatief ontwerp voor mijn Digital Garden gemaakt om mij op nieuwe ideeën te brengen. Wat ik interessant vond aan haar ontwerp, is dat je alleen de eerste twee ramen van het flatgebouw ziet en dat de titel 'Feetjes Wereld' veel meer de aandacht krijgt.</p>
+
+<p>Dit vind ik een leuke ontwerpkeuze, omdat mijn Digital Garden letterlijk mijn eigen wereld voorstelt. Door de titel centraal te stellen, wordt deze het belangrijkste onderdeel van de pagina. Dit heeft te maken met visuele hiërarchie en compositie. De ramen geven alvast een klein kijkje in mijn wereld, zonder meteen alles te laten zien. Dit is iets wat ik wil meenemen in mijn verdere ontwerpproces.</p>
+
+### Checkout:
+
+**Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.**
+
+<p>Contrast laat onderdelen opvallen, witruimte zorgt voor rust en visuele hiërarchie bepaalt waar je als eerste naar kijkt.</p>
+
+**Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?**
+
+<p>Een grid geeft structuur aan je ontwerp, maar biedt ook vrijheid om met de indeling en verhoudingen te spelen.</p>
+
+**Welk principe neem je mee in een laatste iteratie van je eigen Garden?**
+
+<p>Visuele hiërarchie, omdat ik wil dat de aangeklikte kamer meer centraal komt te staan en daardoor meer aandacht krijgt.</p>
 
 ## 24 november 2026 | Sprint 1
 
@@ -13,32 +39,70 @@
 <img src="./readme-images/practicumeverythingimages1.png" width="300" alt="Oefenen: content images">
 <img src="./readme-images/practicumeverythingimages2.png" width="300" alt="Oefenen: content images">
 <img src="./readme-images/practicumeverythingimages3.png" width="300" alt="Oefenen: content images">
+<p>Ik heb geoefend met het toevoegen en aanpassen van afbeeldingen in HTML en CSS. Hierbij heb ik aspect-ratio, object-fit en object-position gebruikt. Ook heb ik geleerd hoe je een goede alt-tekst schrijft en hoe je afbeeldingen via Photoshop als WebP kunt opslaan, zodat de bestanden kleiner worden.</p>
 
 ### Oefenen: Background images
 
 <img src="./readme-images/practicumeverythingimages4.png" width="300" alt="Background images">
+<p>Hier heb ik achtergrondafbeeldingen toegevoegd met CSS. Ik heb geleerd hoe je met background-size, background-repeat en background-position de grootte, herhaling en positie kunt aanpassen. Ook heb ik geoefend met :nth-of-type om verschillende afbeeldingen te tonen.</p>
 
 ### Spelen: SVG
 
 <img src="./readme-images/practicumeverythingimages5.png" width="300" alt="Spelen: SVG">
+<p>Bij deze oefening heb ik de kleur van een SVG aangepast met fill. Ook heb ik geleerd hoe je met :hover en transition een SVG kunt animeren. Daarnaast weet ik nu dat SVG-afbeeldingen scherp blijven wanneer je ze vergroot.</p>
 
 ## 23 november 2026 | Sprint 1
 
-### Check-out
+### Opdracht 16: Van one-column layout naar een responsive design
 
-Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
-**Een website is lelijk wanneer er geen duidelijke structuur in je website is. Een voorbeeld hiervoor is als je tekst langer is dan 30em. Als het breeder is dan 30em is het niet meer fijn om de website te lezen.**
+<img src="./readme-images/responsivedesign.png" width="300" alt="">
+<p>Voor deze opdracht heb ik gekeken hoe mijn Digital Garden zich aanpast aan verschillende schermformaten. Tijdens het practicum Grid 101 van vorige week vrijdag had ik bij de oefening Responsive Card al geleerd hoe je met media queries de indeling van een website kunt aanpassen. Deze kennis had ik toen ook al toegepast op mijn eigen Digital Garden. In de screenshots laat ik zien hoe ik mijn website responsive heb gemaakt en hoe de indeling van de ramen verandert wanneer je het scherm groter of kleiner maakt. Ook heb ik gecontroleerd hoe mijn website eruitziet op mijn telefoon.</p>
 
-Vertel welke volgende stap je neemt om je website responsive te maken. **@media (width > 30em)**
+### Responsive design: Weergave op telefoon
 
-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+<img src="./readme-images/responsivedesign1.png" width="300" alt="Bi-weekly geek 1. Vraag: Moeten kritieke internetdiensten in handen zijn van commerciële bedrijven?">
+<img src="./readme-images/telefoonformaat1.png" width="100" alt=""><img src="./readme-images/telefoonformaat2.png" width="100" alt="">
+<p>Voor de mobiele weergave van mijn Digital Garden heb ik gekeken hoe de tekst op een kleiner scherm wordt weergegeven. Met een media query heb ik de lettergrootte apart aangepast voor schermen smaller dan 40em. Hierdoor kan ik de tekst op mijn telefoon anders vormgeven dan op mijn laptop. In de screenshot laat ik zien hoe ik dit in mijn CSS heb toegepast.</p>
+
+### Werkbladen van de Bi-weekly Geek 1
 
 <img src="./readme-images/biweeklygeek1.png" width="300" alt="Bi-weekly geek 1. Vraag: Moeten kritieke internetdiensten in handen zijn van commerciële bedrijven?">
 <img src="./readme-images/biweeklygeek11.png" width="300" alt="Bi-weekly geek 1. Vraag: Is toegang tot het internet een mensenrecht?">
 
+### Light & Dark mode toegepast
+
+<img src="./readme-images/websiteversie1.png" width="300" alt="Light & Dark mode proces 1">
+<img src="./readme-images/websiteversie2.png" width="300" alt="Light & Dark mode proces 2">
+<img src="./readme-images/websiteversie3.png" width="300" alt="Light & Dark mode proces 3">
+<img src="./readme-images/websiteversie4.png" width="300" alt="Light & Dark mode proces 4">
+<img src="./readme-images/websiteversie5.png" width="300" alt="Light & Dark mode proces 5">
+
+<p>Nu ik mijn eerste opzet van de Digital Garden heb gemaakt, ben ik bezig geweest met het toevoegen van light en dark mode. Eerst heb ik geprobeerd om beide thema's werkend te krijgen, zodat de website automatisch verandert op basis van de instellingen van de gebruiker. Daarna heb ik de kleuren aangepast aan de kleurenpaletten die ik eerder voor mijn website heb samengesteld.</p>
+
+### Check-out
+
+**Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?**
+
+<p>Een website is lelijk wanneer er geen duidelijke structuur in je website is. Een voorbeeld hiervoor is als je tekst langer is dan 30em. Als het breeder is dan 30em is het niet meer fijn om de website te lezen.</p>
+
+**Vertel welke volgende stap je neemt om je website responsive te maken.**
+
+<p>@media (width > 30em)</p>
+
+**Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?**
+
+<p>
+Bij jouw Digital Garden kun je bijvoorbeeld benoemen:
+
+- CSS Grid: om de ramen van je flatgebouw in te delen.
+- Responsive design: om je website op verschillende schermformaten te laten werken.
+- Interactie: bezoekers kunnen op ramen klikken om kamers te ontdekken.
+- Animaties: om je website speelser te maken.
+- Visuele hiërarchie: om belangrijke onderdelen duidelijker te maken.</p>
+
 ## 22 november 2026 | Sprint 1
 
-#### Leerproces, CSS, kleuren en animaties
+### Eerste HTML-opzet & Practicum: Mooie kleuren en gradients
 
 <img src="./readme-images/eersteversie1.png" width="300" alt="Een grid met cards. proces 1"><img src="./readme-images/eersteversie2.png" width="300" alt="Een grid met cards. proces 2"><img src="./readme-images/eersteversie3.png" width="300" alt="Een grid met cards. proces 3"><img src="./readme-images/eersteversie4.png" width="300" alt="Een grid met cards. proces 4"><img src="./readme-images/eersteversie5.png" width="300" alt="Een grid met cards. proces 5"><img src="./readme-images/eersteversie6.png" width="300" alt="Een grid met cards. proces 6"><img src="./readme-images/eersteversie7.png" width="300" alt="Een grid met cards. proces 7"><img src="./readme-images/eersteversie8.png" width="300" alt="Een grid met cards. proces 8">
 
@@ -62,17 +126,24 @@ Wat ik ook fijn vind, is dat **mijn eigen website nu eigenlijk een soort afkijkb
 
 <img src="./readme-images/meettheproperties1.png" width="300" alt="Een grid met cards."><img src="./readme-images/meettheproperties2.png" width="300" alt="Een grid met cards"><img src="./readme-images/meettheproperties3.png" width="300" alt="Een grid met cards."><img src="./readme-images/meettheproperties4.png" width="300" alt="Een grid met cards"><img src="./readme-images/meettheproperties5.png" width="300" alt="Een grid met cards."><img src="./readme-images/meettheproperties6.png" width="300" alt="Een grid met cards"><img src="./readme-images/meettheproperties7.png" width="300" alt="Een grid met cards.">
 
+<p>Ik heb geoefend met verschillende CSS Grid-properties, zoals grid-template-columns, gap en fr. Ook heb ik geleerd hoe je met grid-column en grid-row elementen kunt verplaatsen en meerdere kolommen kunt laten innemen.</p>
+
 #### Oefening 2: Cards 101
 
 <img src="./readme-images/cards101.png" width="300" alt="Layout van een card.">
+<p>Hier heb ik een card gemaakt met twee kolommen en drie rijen. Ik heb geoefend met het plaatsen van de afbeelding, tekst en link binnen het grid. Hierdoor weet ik nu beter hoe ik Grid kan gebruiken voor kleinere onderdelen van een website.</p>
 
 #### Oefening 3: Responsive card
 
 <img src="./readme-images/responsivecard1.png" width="300" alt="Responsive card stap 1."><img src="./readme-images/responsivecard2.png" width="300" alt="Responsive card stap 2."><img src="./readme-images/responsivecard3.png" width="300" alt="Responsive card stap 3."><img src="./readme-images/responsivecard4.png" width="300" alt="Responsive card stap 4."><img src="./readme-images/responsivecard5.png" width="300" alt="Responsive card stap 5.">
 
+<p>Ik heb een card gemaakt die zich aanpast aan verschillende schermformaten. Eerst met één kolom voor een klein scherm en daarna met twee kolommen voor een groter scherm. Hierbij heb ik geleerd hoe je met media queries de indeling kunt aanpassen.</p>
+
 #### Oefening 4: Een grid met cards
 
 <img src="./readme-images/eengridmetcards1.png" width="200" alt="Een grid met cards stap 1."><img src="./readme-images/eengridmetcards2.png" width="200" alt="Een grid met cards stap 2."><img src="./readme-images/eengridmetcards3.png" width="200" alt="Een grid met cards stap 3."><img src="./readme-images/eengridmetcards4.png" width="200" alt="Een grid met cards stap 4 .">
+
+<p>Bij de laatste oefening heb ik meerdere cards in een grid geplaatst. Ik heb geleerd hoe je automatisch extra kolommen kunt toevoegen als er meer ruimte beschikbaar is. Ook heb ik geoefend met grids binnen grids en hoe je een responsive indeling kunt maken zonder media queries.</p>
 
 ### Opdracht 13: Van schets naar HTML
 
@@ -83,13 +154,20 @@ Wat ik ook fijn vind, is dat **mijn eigen website nu eigenlijk een soort afkijkb
 <img src="./readme-images/schetsenschermbeoordelen.png" width="200" alt="Beoordeleningsformulier voor de gemaakte schetsen.">
 
 **1. zijn je schetsen Webby genoeg?**
-Het is webby omdat er genoeg contrast is. Er is een duidelijke visuele hierarchie.
+
+<p>Mijn schetsen zijn Webby doordat ik gebruikmaak van interacties, animaties en een duidelijke visuele hiërarchie. Bezoekers kunnen zelf verschillende ramen ontdekken en bepalen waar ze naartoe willen.</p>
 
 **2. Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css.**
 
+<p>Ik kan mijn flatgebouw opbouwen met HTML en de ramen indelen met CSS Grid. Met CSS kan ik de vormgeving, kleuren en animaties toevoegen. Door media queries te gebruiken kan ik de indeling aanpassen aan verschillende schermformaten.</p>
+
 **3. Schrijf vragen of moeilijke onderdelen op en vraag advies aan een docent/student assistent.**
 
+<p>Wat ik nog lastig vind, is hoe ik de ramen responsive kan maken zonder dat de verhoudingen veranderen. Ook moet ik nog onderzoeken hoe ik de interacties kan maken waarmee bezoekers de verschillende kamers kunnen openen.</p>
+
 **4. Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.**
+
+<p>Op basis van mijn schetsen wil ik verder met het flatgebouw als basis voor mijn Digital Garden. Ik ga eerst de indeling van de ramen maken met HTML en CSS en daarna verder experimenteren met animaties en interacties.</p>
 
 ## 19 november 2026 | Sprint 1
 
@@ -97,14 +175,19 @@ Het is webby omdat er genoeg contrast is. Er is een duidelijke visuele hierarchi
 
 <img src="./readme-images/schetstelefoonscherm1.png" width="300" alt="Schetsen voor het telefoon scherm.">
 <img src="./readme-images/schetstelefoonscherm2.png" width="300" alt="Schetsen voor het telefoon scherm.">
+<p>Voor mijn eerste schetsen heb ik geprobeerd om mijn idee voor de Digital Garden visueel te maken. Ik heb twee schetsen gemaakt waarin ik in vijf verschillende stappen laat zien hoe ik op dit moment voor me zie dat bezoekers mijn website gaan gebruiken. De schetsen laten zien hoe ik wil dat de website werkt en hoe bezoekers door mijn digitale wereld kunnen navigeren. Dit is mijn eerste idee en kan tijdens het ontwerpen en bouwen nog veranderen.</p>
 
 ### Kleurenpalet
 
+#### Dark mode
+
 <img src="./readme-images/kleurpaletdark.png" width="300" alt="kleurenpalet van dark mode">
-<small>Kleurenpalet voor dark mode.</small>
+<p>Voor mijn dark mode heb ik een van de inspiratieafbeeldingen uit mijn Visual Research gebruikt. Deze heb ik in Adobe Color geüpload om er een kleurenpalet uit te halen. De kleuren die hieruit kwamen, wil ik gebruiken als uitgangspunt voor mijn dark mode.</p>
+
+#### Light mode
 
 <img src="./readme-images/kleurpaletlight.png" width="300" alt="kleurenpalet van light mode">
-<small>Kleurenpalet voor light mode.</small>
+<p>Voor mijn light mode heb ik hetzelfde gedaan, maar dan met meerdere screenshots van mijn digitale wereld. Deze heb ik gebruikt om een kleurenpalet samen te stellen. Met beide kleurenpaletten wil ik verder experimenteren om te ontdekken welke kleuren het beste bij mijn Digital Garden passen.</p>
 
 ### Fonts
 
@@ -137,6 +220,7 @@ Haar feedback ging over dat de lampen in de kamer geven licht in het begin.
 ### Visual research
 
 <img src="./readme-images/visualresearch.png" width="300" alt="miro bord visual research">
+<p>Voor mijn Visual Research heb ik verschillende afbeeldingen en websites verzameld die mij inspireren. Deze heb ik bij elkaar gezet in Miro. Vervolgens heb ik gekeken welke overeenkomsten ik kon vinden, zoals het gebruik van kleuren, vormen, ruimtes en illustraties. Vooral kamers, ramen en gebouwen kwamen regelmatig terug. Deze elementen heb ik meegenomen in mijn eerste schetsen voor mijn Digital Garden.</p>
 
 ### Bespreek in duo's
 
@@ -175,13 +259,18 @@ Ik zou het liefst verder willen met schets 2 en 3, waarbij je echt naar binnen k
 
 <img src="./readme-images/light&dark1.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark2.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark3.png" width="300" alt="presentatie pagina 12"><img src="./readme-images/light&dark4.png" width="300" alt="presentatie pagina 12">
 
+<p>Ik heb geoefend met CSS custom properties om kleuren vast te leggen en opnieuw te gebruiken. Met light-dark() heb ik een licht en donker thema gemaakt. Ook heb ik geleerd hoe je met color-scheme ervoor zorgt dat de website rekening houdt met de instellingen van de gebruiker.</p>
+
 #### Opdracht: Light en dark iconen
 
-<img src="./readme-images/light&dark5.png" width="300" alt="opdracht met de cupcake">
+ <img src="./readme-images/light&dark5.png" width="300" alt="opdracht met de cupcake">
+<p>Hier heb ik gewerkt met een cupcake-icoon dat verandert tussen light en dark mode. Ik heb geleerd hoe je met een CSS-filter de kleur van een icoon kunt omkeren, zodat het in beide thema's zichtbaar blijft.</p>
 
 #### Opdracht 3: Responsive afbeelding
 
 <img src="./readme-images/light&dark6.png" width="300" alt="hardloper licht"><img src="./readme-images/light&dark7.png" width="300" alt="hardloper donker">
+
+<p>Voor deze oefening heb ik gewerkt met afbeeldingen van hardlopers. Met het picture-element en source heb ik verschillende afbeeldingen toegevoegd voor lichte en donkere thema's en verschillende schermformaten. Hierdoor weet ik hoe je afbeeldingen automatisch kunt laten veranderen op basis van de instellingen en schermgrootte van de gebruiker.</p>
 
 ### Presentatie voor woensdag 18 november
 

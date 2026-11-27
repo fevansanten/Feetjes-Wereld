@@ -1,5 +1,43 @@
 # Learning Log
 
+## 27 november 2026 | Sprint 1
+
+### Ckeckout
+
+<p>Stappen:
+
+- Verdiepen: popover HTML global attribute
+- Verdiepen: CSS Shapes using corner-shape
+- Readme bijwerken zodat alles gedocumenteerd is voor het begin van sprint 2
+
+### Rankschrikken van schetsen
+
+<img src="./readme-images/schetsenrankschrikken.png" width="200" alt="Het rankschrikken van schetsen.">
+<p>Do’s:
+
+- Aantekening bij de schetsen
+- Schaduw
+- Pijltjes om naar iets te verwijzen
+- Hierarchie in je schets
+
+Dont’s:
+
+- Weinig aantekeningen
+- Geen hiërarchie
+- 1 pen gebruiken inplaats van meerderen
+</p>
+
+### Retrospect
+
+<img src="./readme-images/retrospect1.png" width="200" alt="Het rankschrikken van schetsen.">
+<img src="./readme-images/retrospect2.png" width="200" alt="Het rankschrikken van schetsen.">
+<img src="./readme-images/smoothsailing.png" width="200" alt="Het rankschrikken van schetsen.">
+
+### Feedback Sprint 1
+
+<img src="./readme-images/rubricblok2sprint1.png" width="200" alt="Het rankschrikken van schetsen.">
+<img src="./readme-images/overallfeedback.png" width="200" alt="Het rankschrikken van schetsen.">
+
 ## 25 november 2026 | Sprint 1
 
 ### Opdracht 18: Contrast (Gestaltprincipes, contrast)
